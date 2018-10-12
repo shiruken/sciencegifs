@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Colliding Vortex Rings"
 ---
 
