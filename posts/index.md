@@ -1,6 +1,6 @@
 ---
 layout  : blog
-title   : Articles
+title   : Posts
 menu    : true
 order   : 1
 ---
