@@ -1,6 +1,5 @@
 ---
 title:  "Colliding Vortex Rings"
-layout: post
 ---
 
 Hydrodynamics is the study of liquids in motion and a subdiscipline of fluid dynamics. It seeks to describe and explain interactions within and between liquids using the laws of physics. These interactions can be extremely complex and often lack empirical explanations.
