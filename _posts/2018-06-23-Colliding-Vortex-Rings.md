@@ -11,6 +11,6 @@ In 1992, a short letter to Nature depicted the head-on collision of two vortex r
 
 Source: https://youtu.be/EVbdbVhzcM4
 
-![Colliding Vortex Rings](/_img/2018-06-23-Vortex.gif)
+![Colliding Vortex Rings]({{ site.url }}/_img/2018-06-23-Vortex.gif)
 
 [View on Google+](https://plus.google.com/+ColinSullender/posts/5JvZUbugAZs)
