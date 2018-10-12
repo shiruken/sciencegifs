@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<h1>{{ post.title }}</h1>
+<h1>{{ page.title }}</h1>
 <p class="author">
-  <span class="date">{{ post.date | date: "%-d %B %Y"}}</span>
+  <span class="date">{{ page.date | date: "%-d %B %Y"}}</span>
 </p>
 
 <div class="content">
   {{content}}
 </div>
 
-{% if post.tags %}
-  <small>tags: <em>{{ post.tags | join: "</em> - <em>" }}</em></small>
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
