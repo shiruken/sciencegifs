@@ -1,4 +1,4 @@
 title: Science GIFs
 theme: jekyll-theme-cayman
 google_analytics: UA—26412009-1
-paginate_path: "/:num/"
+paginate: 3
