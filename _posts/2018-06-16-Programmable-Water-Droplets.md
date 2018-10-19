@@ -13,4 +13,4 @@ Learn More: [https://doi.org/10.1145/3170427.3186607](https://doi.org/10.1145/31
 
 ![Programmable Water Droplets](/assets/img/2018-06-16-Droplets.gif)
 
-[View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/atu8XWrT2tu)
+<small>[View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/atu8XWrT2tu)</small>
