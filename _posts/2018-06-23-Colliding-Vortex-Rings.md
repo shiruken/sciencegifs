@@ -9,6 +9,6 @@ In 1992, [a short letter to Nature](https://doi.org/10.1038/357225a0) depicted t
 
 Source: [https://youtu.be/EVbdbVhzcM4](https://youtu.be/EVbdbVhzcM4)
 
-![Colliding Vortex Rings](/assets/img/2018-06-23-Vortex.gif)
-
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/5JvZUbugAZs)
+
+![Colliding Vortex Rings](/assets/img/2018-06-23-Vortex.gif)
