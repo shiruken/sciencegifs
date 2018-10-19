@@ -8,7 +8,8 @@ The ability of a liquid to maintain contact with a solid surface is a property c
 [Electrowetting](https://en.wikipedia.org/wiki/Electrowetting) is a technique to modify the wetting properties of a surface using an external electric field. Dielectric arrays can be used to create microfluidic devices that allow for programatic control of droplet motion. Scientists have used these techniques to perform biological automation and are now exploring the possibility of water-based computer interfaces.
 
 Source: [http://tangible.media.mit.edu/project/programmable-droplets-for-interaction/](http://tangible.media.mit.edu/project/programmable-droplets-for-interaction/)
-Learn More:  [https://doi.org/10.1145/3170427.3186607](https://doi.org/10.1145/3170427.3186607) (CHI 2018)
+
+Learn More: [https://doi.org/10.1145/3170427.3186607](https://doi.org/10.1145/3170427.3186607) (CHI 2018)
 
 ![Programmable Water Droplets](/assets/img/2018-06-16-Droplets.gif)
 
