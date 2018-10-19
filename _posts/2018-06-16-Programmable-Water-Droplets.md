@@ -11,6 +11,6 @@ Source: [http://tangible.media.mit.edu/project/programmable-droplets-for-interac
 
 Learn More: [https://doi.org/10.1145/3170427.3186607](https://doi.org/10.1145/3170427.3186607) (CHI 2018)
 
-![Programmable Water Droplets](/assets/img/2018-06-16-Droplets.gif)
-
 <small>[View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/atu8XWrT2tu)</small>
+
+![Programmable Water Droplets](/assets/img/2018-06-16-Droplets.gif)
