@@ -7,7 +7,7 @@ An alternating current passing through a copper coil induces a magnetic field ar
 
 When a piece of aluminum is placed within a magnetic field generated using a 1.6 kW power inverter operating at 204 kHz, it rapidly heats and eventually melts at 660 °C. The molten aluminum reaches a final temperature of 1,200 °C before the current is finally shut off.
 
-Source: https://youtu.be/DkpEz7znpnc
+Source: [https://youtu.be/DkpEz7znpnc](https://youtu.be/DkpEz7znpnc)
 
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/VkT5JH5S2pU)
 
