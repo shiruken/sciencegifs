@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-a:hover, a:focus {
+div#content a:hover, a:focus {
     font-weight: normal;
     border-bottom: 1px dotted #267CB9;
 }
