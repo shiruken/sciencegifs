@@ -15,9 +15,8 @@ sand will realign at each resonant frequency of the metal plate. The higher
 the frequency, the more complex the Chladni figure.  
   
 Source: <https://youtu.be/wvJAgrUBF4w>  
-Learn More: <http://skullsinthestars.com/2013/05/02/physics-demonstrations-
-chladni-patterns/>  
-  
+Learn More: <http://skullsinthestars.com/2013/05/02/physics-demonstrations-chladni-patterns/>
+
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts)
 [#Science](https://plus.google.com/s/%23Science/posts)
 [#GIF](https://plus.google.com/s/%23GIF/posts)
