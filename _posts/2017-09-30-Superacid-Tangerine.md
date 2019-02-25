@@ -11,4 +11,4 @@ Source: [https://youtu.be/cTLBrqcuLBU](https://youtu.be/cTLBrqcuLBU) (Chemistry 
 
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/JRxnZfCGV79)
 
-![Superacid vs. Tangerine](/assets/img/2017-09-30-Superacid-Tangerine)
+![Superacid vs. Tangerine](/assets/img/2017-09-30-Superacid-Tangerine.gif)
