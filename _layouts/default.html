@@ -25,6 +25,14 @@
       <!-- End Google Analytics -->
     {% endif %}
 
+    <script>
+      var posts = [];
+      {% for post in site.posts %}
+        posts.push("{{ post.url }}");
+      {% endfor %}
+      console.log(posts[Math.floor(Math.random() * posts.length)])
+    </script>
+
   </head>
   <body>
     <div class="wrapper">
