@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""Cosmic" jellyfish from the Utu seamount"
+title:  "'Cosmic' jellyfish from the Utu seamount"
 ---
 
 The _Okeanos Explorer_ is an exploratory vessel operated by the National

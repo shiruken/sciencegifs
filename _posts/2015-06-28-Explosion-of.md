@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Explosion of"
+title:  "Explosion of SpaceX Falcon 9 shortly after launch"
 ---
 
 SpaceX CRS-7 exploded after launch today on its way to the International Space

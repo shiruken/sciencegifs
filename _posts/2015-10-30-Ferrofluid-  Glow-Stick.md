@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ferrofluid  + Glow Stick"
+title:  "Ferrofluid + Glow Stick"
 ---
 
 Mixing a ferrofluid with the contents of a glow stick can produce some

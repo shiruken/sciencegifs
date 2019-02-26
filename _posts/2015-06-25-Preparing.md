@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Preparing"
+title:  "Preparing SpaceX Dragon for release from ISS"
 ---
 
 This timelapse depicts the International Space Station preparing to release
