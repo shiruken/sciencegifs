@@ -30,7 +30,7 @@
       {% for post in site.posts %}
         posts.push("{{ post.url }}");
       {% endfor %}
-      console.log(posts[Math.floor(Math.random() * posts.length)])
+      document.getElementById('yourlinkId').href(posts[Math.floor(Math.random() * posts.length)]);
     </script>
 
   </head>
@@ -46,6 +46,8 @@
         <p><em>'Science GIFs' was one of the largest and most active science-oriented collections on the Google+ social network with over 325,000 followers at the time of its shutting down. This website serves as a backup of the content from the collection.</em></p>
 
         <p><a href="https://plus.google.com/collection/A2NSc">https://plus.google.com/collection/A2NSc</a></p>
+
+        <p><a href="" title="View a random post">Random Post</a></p>
 
       </header>
       <section>
