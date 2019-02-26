@@ -30,7 +30,7 @@
       {% for post in site.posts %}
         posts.push("{{ post.url }}");
       {% endfor %}
-      document.getElementById('yourlinkId').href(posts[Math.floor(Math.random() * posts.length)]);
+      document.getElementById('random-post').href = posts[Math.floor(Math.random() * posts.length)];
     </script>
 
   </head>
@@ -47,7 +47,7 @@
 
         <p><a href="https://plus.google.com/collection/A2NSc">https://plus.google.com/collection/A2NSc</a></p>
 
-        <p><a href="" title="View a random post">Random Post</a></p>
+        <p><a id="random-post" href="" title="View a random post">Random Post</a></p>
 
       </header>
       <section>
