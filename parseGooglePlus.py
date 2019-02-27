@@ -8,8 +8,7 @@ import os
 import html.parser as htmlparser
 
 
-data_dir = 'Takeout JSON/Google+ Stream/'
-save_dir = 'githubio/'
+data_dir = '../Takeout JSON/Google+ Stream/'
 
 excluded = [
     'https://plus.google.com/+ColinSullender/posts/56oheSVB6Ed',
@@ -34,12 +33,12 @@ h = html2text.HTML2Text()
 h.body_width = 0
 
 # Create the output directory for the posts
-markdown_dir = os.path.join(save_dir, '_posts/')
+markdown_dir = '_posts/'
 if not os.path.exists(markdown_dir):
     os.makedirs(markdown_dir)
 
 # Create the output directory for the images
-img_dir = os.path.join(save_dir, 'assets/img/')
+img_dir = 'assets/img/'
 if not os.path.exists(img_dir):
     os.makedirs(img_dir)
 
