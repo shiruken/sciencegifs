@@ -61,6 +61,9 @@ for post in posts:
             # Strip plus signs (e.g. +SpaceX) and any trailing periods
             title = re.sub(r'\+\b', '', title).rstrip('.')
 
+            # Escape any quotation marks in the title
+            title = title.replace('"', '\\"')
+
             # Extract the timestamp and format as YYYY-MM-DD
             creationTime = datetime.strptime(data['creationTime'], '%Y-%m-%d %H:%M:%S%z')
             date = creationTime.strftime('%Y-%m-%d')
