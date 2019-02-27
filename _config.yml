@@ -4,3 +4,6 @@ google_analytics: UA-26412009-1
 paginate: 5
 show_downloads: false
 logo: /assets/img/logo.gif
+
+plugins:
+  - jekyll-feed
