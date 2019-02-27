@@ -7,9 +7,6 @@ import html2text
 import os
 import html.parser as htmlparser
 
-parser = htmlparser.HTMLParser()
-h = html2text.HTML2Text()
-h.body_width = 0
 
 data_dir = 'Takeout JSON/Google+ Stream/'
 save_dir = 'githubio/'
@@ -29,6 +26,12 @@ excluded = [
     'https://plus.google.com/+ColinSullender/posts/HRxAXBw43Bj',
     'https://plus.google.com/+ColinSullender/posts/K5GHgnBPMGg'
 ]
+
+
+# HTML parsing + HTML to Markdown
+parser = htmlparser.HTMLParser()
+h = html2text.HTML2Text()
+h.body_width = 0
 
 # Create the output directory for the posts
 markdown_dir = os.path.join(save_dir, '_posts/')
@@ -53,12 +56,14 @@ for post in posts:
         # Check that the post is in the 'Science GIFs' collection
         if data['postAcl']['collectionAcl']['collection']['displayName'] == 'Science GIFs':
                            
+            # Split up by HTML linebreaks and extract title from the first line
             content = data['content'].split('<br>')
+            title = content[0]
 
-            # Extract the title from the first line and strip the HTML tags
-            title = re.sub('<[^<]+?>', '', parser.unescape(content[0])).strip()
+            # Unescape and strip the HTML tags
+            title = re.sub('<[^<]+?>', '', parser.unescape(title)).strip()
 
-            # Strip plus signs (e.g. +SpaceX) and any trailing periods
+            # Strip plus signs (e.g. +SpaceX) and any trailing periods from the title
             title = re.sub(r'\+\b', '', title).rstrip('.')
 
             # Escape any quotation marks in the title
