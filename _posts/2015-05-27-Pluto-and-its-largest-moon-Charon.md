@@ -10,4 +10,4 @@ Source: <http://apod.nasa.gov/apod/ap150527.html>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#APOD](https://plus.google.com/s/%23APOD/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#NewHorizons](https://plus.google.com/s/%23NewHorizons/posts) [#Pluto](https://plus.google.com/s/%23Pluto/posts) [#Charon](https://plus.google.com/s/%23Charon/posts) [#DwarfPlanet](https://plus.google.com/s/%23DwarfPlanet/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/QhSpReJd47Q)
 
-![Pluto and its largest moon Charon](/assets/img/2015-05-27-Pluto-and-its-largest-moon-Charon.gif)
+![Pluto and its largest moon Charon](https://i.imgur.com/bbB1bug.gif)

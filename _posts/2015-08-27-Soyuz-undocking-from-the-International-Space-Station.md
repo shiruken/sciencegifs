@@ -10,4 +10,4 @@ Source: <https://youtu.be/8ec6WJKdubw>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#Roscosmos](https://plus.google.com/s/%23Roscosmos/posts) [#ISS](https://plus.google.com/s/%23ISS/posts) [#Russia](https://plus.google.com/s/%23Russia/posts) [#Outerspace](https://plus.google.com/s/%23Outerspace/posts) [#Exploration](https://plus.google.com/s/%23Exploration/posts) [#Engineering](https://plus.google.com/s/%23Engineering/posts) [#SpaceStation](https://plus.google.com/s/%23SpaceStation/posts) [#Discovery](https://plus.google.com/s/%23Discovery/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/9nTbERXyrdf)
 
-![Soyuz undocking from the International Space Station](/assets/img/2015-08-27-Soyuz-undocking-from-the-International-Space-Station.gif)
+![Soyuz undocking from the International Space Station](https://i.imgur.com/D9CusY4.gif)

@@ -10,4 +10,4 @@ Source: <https://youtu.be/qHrBhgwq__Q>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Coulomb](https://plus.google.com/s/%23Coulomb/posts) [#Electrical](https://plus.google.com/s/%23Electrical/posts) [#Charge](https://plus.google.com/s/%23Charge/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#ZeroGravity](https://plus.google.com/s/%23ZeroGravity/posts) [#Gravity](https://plus.google.com/s/%23Gravity/posts) [#Orbit](https://plus.google.com/s/%23Orbit/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Polar](https://plus.google.com/s/%23Polar/posts) [#Charged](https://plus.google.com/s/%23Charged/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/STAybi51ej2)
 
-![Water droplet orbiting charged needle in zero gravity](/assets/img/2015-06-20-Water-droplet-orbiting-charged-needle-in-zero-gravity.gif)
+![Water droplet orbiting charged needle in zero gravity](https://i.imgur.com/Eu3jqVy.gif)

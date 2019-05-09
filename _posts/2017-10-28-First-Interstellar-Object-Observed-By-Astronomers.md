@@ -12,4 +12,4 @@ Source: <https://goo.gl/Dv7BAv> (NASA)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#Interstellar](https://plus.google.com/s/%23Interstellar/posts) [#Comet](https://plus.google.com/s/%23Comet/posts) [#Asteroid](https://plus.google.com/s/%23Asteroid/posts) [#Discovery](https://plus.google.com/s/%23Discovery/posts) [#Astronomer](https://plus.google.com/s/%23Astronomer/posts) [#Satellite](https://plus.google.com/s/%23Satellite/posts) [#Solar](https://plus.google.com/s/%23Solar/posts) [#System](https://plus.google.com/s/%23System/posts) [#Galaxy](https://plus.google.com/s/%23Galaxy/posts) [#Hawaii](https://plus.google.com/s/%23Hawaii/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/4LHtQe68CQn)
 
-![First Interstellar Object Observed By Astronomers](/assets/img/2017-10-28-First-Interstellar-Object-Observed-By-Astronomers.gif)
+![First Interstellar Object Observed By Astronomers](https://i.imgur.com/TWbxchQ.gif)

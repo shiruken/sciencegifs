@@ -12,4 +12,4 @@ Source: <https://vimeo.com/107714608> (PCO)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Nature](https://plus.google.com/s/%23Nature/posts) [#Biology](https://plus.google.com/s/%23Biology/posts) [#SlowMotion](https://plus.google.com/s/%23SlowMotion/posts) [#Kingfisher](https://plus.google.com/s/%23Kingfisher/posts) [#Bird](https://plus.google.com/s/%23Bird/posts) [#Fish](https://plus.google.com/s/%23Fish/posts) [#SlowMo](https://plus.google.com/s/%23SlowMo/posts) [#HighSpeed](https://plus.google.com/s/%23HighSpeed/posts) [#Raptor](https://plus.google.com/s/%23Raptor/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/PHHEVhnzxid)
 
-![Fishing Kingfisher](/assets/img/2017-04-08-Fishing-Kingfisher.gif)
+![Fishing Kingfisher](https://i.imgur.com/WQtxdxc.gif)

@@ -12,4 +12,4 @@ Source: <http://www.rsc.org/eic/2015/11/red-phosphorus-oxygen-sun>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Phosphorus](https://plus.google.com/s/%23Phosphorus/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#WhitePhosphorus](https://plus.google.com/s/%23WhitePhosphorus/posts) [#Sun](https://plus.google.com/s/%23Sun/posts) [#Glowing](https://plus.google.com/s/%23Glowing/posts) [#Flask](https://plus.google.com/s/%23Flask/posts) ﻿
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/eC981a7N1Pj)
 
-![Red Phosphorus Sun](/assets/img/2015-11-30-Red-Phosphorus-Sun.gif)
+![Red Phosphorus Sun](https://i.imgur.com/EudIVOj.gif)

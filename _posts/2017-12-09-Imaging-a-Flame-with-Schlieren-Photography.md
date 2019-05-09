@@ -15,4 +15,4 @@ Learn More: <https://youtu.be/4tgOyU34D44>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Schlieren](https://plus.google.com/s/%23Schlieren/posts) [#Photography](https://plus.google.com/s/%23Photography/posts) [#Optics](https://plus.google.com/s/%23Optics/posts) [#Index](https://plus.google.com/s/%23Index/posts) [#Refraction](https://plus.google.com/s/%23Refraction/posts) [#Air](https://plus.google.com/s/%23Air/posts) [#Optical](https://plus.google.com/s/%23Optical/posts) [#Flame](https://plus.google.com/s/%23Flame/posts) [#Physics](https://plus.google.com/s/%23Physics/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/evkhXJ5J5Fa)
 
-![Imaging a Flame with Schlieren Photography](/assets/img/2017-12-09-Imaging-a-Flame-with-Schlieren-Photography.gif)
+![Imaging a Flame with Schlieren Photography](https://i.imgur.com/3vVbg09.gif)

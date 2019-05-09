@@ -13,4 +13,4 @@ Source: <https://www.instagram.com/p/BAqirNbwEc0/>
 ﻿
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/gJx3B1HUsHZ)
 
-![SpaceX Falcon 9 barge landing failure](/assets/img/2016-01-18-SpaceX-Falcon-9-barge-landing-failure.gif)
+![SpaceX Falcon 9 barge landing failure](https://i.imgur.com/MjAnshz.gif)

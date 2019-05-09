@@ -12,4 +12,4 @@ Source: <https://youtu.be/aXgGQuaOOt4>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Gyroscope](https://plus.google.com/s/%23Gyroscope/posts) [#Stabilization](https://plus.google.com/s/%23Stabilization/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#OuterSpace](https://plus.google.com/s/%23OuterSpace/posts) [#Microgravity](https://plus.google.com/s/%23Microgravity/posts) [#ISS](https://plus.google.com/s/%23ISS/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#CD](https://plus.google.com/s/%23CD/posts) [#Astronaut](https://plus.google.com/s/%23Astronaut/posts) [#Rotation](https://plus.google.com/s/%23Rotation/posts) [#Momentum](https://plus.google.com/s/%23Momentum/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/ATHZh7ryycW)
 
-![Gyroscopic Stabilization in Space](/assets/img/2016-07-05-Gyroscopic-Stabilization-in-Space.gif)
+![Gyroscopic Stabilization in Space](https://i.imgur.com/96jZL9s.gif)

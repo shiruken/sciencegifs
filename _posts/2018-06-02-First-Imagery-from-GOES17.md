@@ -15,4 +15,4 @@ Learn More: <https://www.nesdis.noaa.gov/GOES-R-Series-Satellites>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#GOES](https://plus.google.com/s/%23GOES/posts) [#GOES17](https://plus.google.com/s/%23GOES17/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#NOAA](https://plus.google.com/s/%23NOAA/posts) [#Hemisphere](https://plus.google.com/s/%23Hemisphere/posts) [#Advanced](https://plus.google.com/s/%23Advanced/posts) [#Baseline](https://plus.google.com/s/%23Baseline/posts) [#Imager](https://plus.google.com/s/%23Imager/posts) [#ABI](https://plus.google.com/s/%23ABI/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/JJc9MstCtJW)
 
-![First Imagery from GOES-17](/assets/img/2018-06-02-First-Imagery-from-GOES17.gif)
+![First Imagery from GOES-17](https://i.imgur.com/rQUevYC.gif)

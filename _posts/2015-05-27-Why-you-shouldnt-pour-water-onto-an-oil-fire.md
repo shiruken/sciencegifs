@@ -10,4 +10,4 @@ Source: <https://youtu.be/PbgdRR4yj8Y> (The Slow Mo Guys)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Fire](https://plus.google.com/s/%23Fire/posts) [#Explosion](https://plus.google.com/s/%23Explosion/posts) [#Boiling](https://plus.google.com/s/%23Boiling/posts) [#Safety](https://plus.google.com/s/%23Safety/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/brUmFbDT1nh)
 
-![Why you shouldn't pour water onto an oil fire](/assets/img/2015-05-27-Why-you-shouldnt-pour-water-onto-an-oil-fire.gif)
+![Why you shouldn't pour water onto an oil fire](https://i.imgur.com/s8JmqKi.gif)

@@ -12,4 +12,4 @@ Source: <https://youtu.be/7KDz6dGQ5RE> (National Geographic)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Weather](https://plus.google.com/s/%23Weather/posts) [#Tornado](https://plus.google.com/s/%23Tornado/posts) [#Atmosphere](https://plus.google.com/s/%23Atmosphere/posts) [#Air](https://plus.google.com/s/%23Air/posts) [#Destruction](https://plus.google.com/s/%23Destruction/posts) [#Damage](https://plus.google.com/s/%23Damage/posts) [#NationalGeographic](https://plus.google.com/s/%23NationalGeographic/posts) [#Meteorology](https://plus.google.com/s/%23Meteorology/posts) ﻿
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/gPKDUakAUq2)
 
-![Formation of a Tornado](/assets/img/2015-12-26-Formation-of-a-Tornado.gif)
+![Formation of a Tornado](https://i.imgur.com/r1Zo012.gif)

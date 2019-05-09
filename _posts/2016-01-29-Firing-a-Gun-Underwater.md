@@ -12,4 +12,4 @@ Source: <https://youtu.be/OubvTOHWTms> (Slow Mo Guys)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Density](https://plus.google.com/s/%23Density/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Air](https://plus.google.com/s/%23Air/posts) [#Gun](https://plus.google.com/s/%23Gun/posts) [#Pressure](https://plus.google.com/s/%23Pressure/posts) [#Wave](https://plus.google.com/s/%23Wave/posts) [#Compression](https://plus.google.com/s/%23Compression/posts) [#Turbulence](https://plus.google.com/s/%23Turbulence/posts) [#Oscillations](https://plus.google.com/s/%23Oscillations/posts) [#Resistance](https://plus.google.com/s/%23Resistance/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/MpESD3obtda)
 
-![Firing a Gun Underwater](/assets/img/2016-01-29-Firing-a-Gun-Underwater.gif)
+![Firing a Gun Underwater](https://i.imgur.com/arqEDsJ.gif)

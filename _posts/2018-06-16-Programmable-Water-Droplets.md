@@ -14,4 +14,4 @@ Learn More: <https://doi.org/10.1145/3170427.3186607> ( _CHI 2018_ )
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Droplet](https://plus.google.com/s/%23Droplet/posts) [#Programmable](https://plus.google.com/s/%23Programmable/posts) [#Electrowetting](https://plus.google.com/s/%23Electrowetting/posts) [#Dielectric](https://plus.google.com/s/%23Dielectric/posts) [#Engineering](https://plus.google.com/s/%23Engineering/posts) [#Material](https://plus.google.com/s/%23Material/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#MIT](https://plus.google.com/s/%23MIT/posts) [#Tangible](https://plus.google.com/s/%23Tangible/posts) [#Media](https://plus.google.com/s/%23Media/posts) [#CHI](https://plus.google.com/s/%23CHI/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/atu8XWrT2tu)
 
-![Programmable Water Droplets](/assets/img/2018-06-16-Programmable-Water-Droplets.gif)
+![Programmable Water Droplets](https://i.imgur.com/Pu9OAFV.gif)

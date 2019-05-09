@@ -12,4 +12,4 @@ Source: <https://youtu.be/cTLBrqcuLBU> (Chemistry Flicks)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Chlorosulfonic](https://plus.google.com/s/%23Chlorosulfonic/posts) [#Acid](https://plus.google.com/s/%23Acid/posts) [#Tangerine](https://plus.google.com/s/%23Tangerine/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#Chemical](https://plus.google.com/s/%23Chemical/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/JRxnZfCGV79)
 
-![Superacid vs. Tangerine](/assets/img/2017-09-30-Superacid-vs-Tangerine.gif)
+![Superacid vs. Tangerine](https://i.imgur.com/zdrfsML.gif)

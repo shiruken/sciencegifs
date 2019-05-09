@@ -10,4 +10,4 @@ Source: <https://youtu.be/6KKNnjFpGto>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Coalescence](https://plus.google.com/s/%23Coalescence/posts) [#Cascade](https://plus.google.com/s/%23Cascade/posts) [#SlowMo](https://plus.google.com/s/%23SlowMo/posts) [#HighSpeed](https://plus.google.com/s/%23HighSpeed/posts) [#FPS](https://plus.google.com/s/%23FPS/posts) [#SurfaceTension](https://plus.google.com/s/%23SurfaceTension/posts) [#Droplet](https://plus.google.com/s/%23Droplet/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/G1aRo5ymr3h)
 
-![Slow Motion Coalescence Cascade](/assets/img/2015-12-11-Slow-Motion-Coalescence-Cascade.gif)
+![Slow Motion Coalescence Cascade](https://i.imgur.com/eCZd6Vg.gif)

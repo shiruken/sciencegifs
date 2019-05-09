@@ -12,4 +12,4 @@ Source: <https://youtu.be/bDx12M5u4uY>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Medical](https://plus.google.com/s/%23Medical/posts) [#Medicine](https://plus.google.com/s/%23Medicine/posts) [#Ear](https://plus.google.com/s/%23Ear/posts) [#Hearing](https://plus.google.com/s/%23Hearing/posts) [#Cochlear](https://plus.google.com/s/%23Cochlear/posts) [#Implant](https://plus.google.com/s/%23Implant/posts) [#Surgery](https://plus.google.com/s/%23Surgery/posts) [#Technology](https://plus.google.com/s/%23Technology/posts) [#XRay](https://plus.google.com/s/%23XRay/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/LHY4rGAdDZ7)
 
-![Cochlear Implant Surgery](/assets/img/2016-03-08-Cochlear-Implant-Surgery.gif)
+![Cochlear Implant Surgery](https://i.imgur.com/muGkb7W.gif)

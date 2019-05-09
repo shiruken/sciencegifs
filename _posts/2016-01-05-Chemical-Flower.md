@@ -10,4 +10,4 @@ Source: <https://youtu.be/RQzFPQ5sy-w>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Indicator](https://plus.google.com/s/%23Indicator/posts) [#Chemical](https://plus.google.com/s/%23Chemical/posts) [#ChemicalFlower](https://plus.google.com/s/%23ChemicalFlower/posts) [#Aklaline](https://plus.google.com/s/%23Aklaline/posts) [#Ethanol](https://plus.google.com/s/%23Ethanol/posts) [#Isopropanol](https://plus.google.com/s/%23Isopropanol/posts) [#Sodium](https://plus.google.com/s/%23Sodium/posts) [#Colorful](https://plus.google.com/s/%23Colorful/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts)﻿
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/BVW6iFKAFuH)
 
-![Chemical Flower](/assets/img/2016-01-05-Chemical-Flower.gif)
+![Chemical Flower](https://i.imgur.com/E4yj23s.gif)

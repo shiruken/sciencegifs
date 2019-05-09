@@ -14,4 +14,4 @@ Source: <https://youtu.be/aCQIxpbss94>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts) [#ChemicalReaction](https://plus.google.com/s/%23ChemicalReaction/posts) [#Enzyme](https://plus.google.com/s/%23Enzyme/posts) [#Blood](https://plus.google.com/s/%23Blood/posts) [#Peroxidase](https://plus.google.com/s/%23Peroxidase/posts) [#Catalase](https://plus.google.com/s/%23Catalase/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Oxygen](https://plus.google.com/s/%23Oxygen/posts) [#Hemoglobin](https://plus.google.com/s/%23Hemoglobin/posts) [#Medicine](https://plus.google.com/s/%23Medicine/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/XeuiPrMMjcq)
 
-![Hydrogen Peroxide and Blood](/assets/img/2016-03-15-Hydrogen-Peroxide-and-Blood.gif)
+![Hydrogen Peroxide and Blood](https://i.imgur.com/RaEGiUb.gif)

@@ -10,4 +10,4 @@ Source: <https://youtu.be/WsksFbFZeeU> (Physics Girl)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#SurfaceTension](https://plus.google.com/s/%23SurfaceTension/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Screen](https://plus.google.com/s/%23Screen/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/6i7xtAWceAA)
 
-![Surface tension on screen holds water in jar](/assets/img/2015-06-25-Surface-tension-on-screen-holds-water-in-jar.gif)
+![Surface tension on screen holds water in jar](https://i.imgur.com/AQVxZw1.gif)

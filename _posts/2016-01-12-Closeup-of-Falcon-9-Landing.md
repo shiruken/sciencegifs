@@ -10,4 +10,4 @@ Source: <https://youtu.be/ANv5UfZsvZQ> (SpaceX)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#SpaceX](https://plus.google.com/s/%23SpaceX/posts) [#Falcon](https://plus.google.com/s/%23Falcon/posts) [#Falcon9](https://plus.google.com/s/%23Falcon9/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#OuterSpace](https://plus.google.com/s/%23OuterSpace/posts) [#Astronomy](https://plus.google.com/s/%23Astronomy/posts) [#Aeronautical](https://plus.google.com/s/%23Aeronautical/posts) [#Engineering](https://plus.google.com/s/%23Engineering/posts) [#Landing](https://plus.google.com/s/%23Landing/posts) [#Rocket](https://plus.google.com/s/%23Rocket/posts) [#Aerospace](https://plus.google.com/s/%23Aerospace/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/LTYzUkYYBNU)
 
-![Closeup of Falcon 9 Landing](/assets/img/2016-01-12-Closeup-of-Falcon-9-Landing.gif)
+![Closeup of Falcon 9 Landing](https://i.imgur.com/W7wBfkK.gif)

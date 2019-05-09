@@ -12,4 +12,4 @@ Source: <https://youtu.be/Q87UkykCbvI>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Venom](https://plus.google.com/s/%23Venom/posts) [#Snake](https://plus.google.com/s/%23Snake/posts) [#Poison](https://plus.google.com/s/%23Poison/posts) [#Viper](https://plus.google.com/s/%23Viper/posts) [#Toxic](https://plus.google.com/s/%23Toxic/posts) [#Clotting](https://plus.google.com/s/%23Clotting/posts) [#Blood](https://plus.google.com/s/%23Blood/posts) [#RedBloodCells](https://plus.google.com/s/%23RedBloodCells/posts) [#Hemolysis](https://plus.google.com/s/%23Hemolysis/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/J17C4MbELte)
 
-![Snake Venom and Blood](/assets/img/2016-04-22-Snake-Venom-and-Blood.gif)
+![Snake Venom and Blood](https://i.imgur.com/ualtXRw.gif)

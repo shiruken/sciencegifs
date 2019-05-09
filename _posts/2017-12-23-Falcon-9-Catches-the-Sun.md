@@ -13,4 +13,4 @@ Source: <https://youtu.be/tE5C3O71Xqo> (Doug Ellison)
 
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/iUSV4s576Nh)
 
-![Falcon 9 Catches the Sun](/assets/img/2017-12-23-Falcon-9-Catches-the-Sun.gif)
+![Falcon 9 Catches the Sun](https://i.imgur.com/jzB5CCS.gif)

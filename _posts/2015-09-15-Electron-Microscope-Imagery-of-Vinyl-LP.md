@@ -12,4 +12,4 @@ Source: <https://youtu.be/GuCdsyCWmt8>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#ElectronMicroscope](https://plus.google.com/s/%23ElectronMicroscope/posts) [#Electron](https://plus.google.com/s/%23Electron/posts) [#Microscope](https://plus.google.com/s/%23Microscope/posts) [#Microscopic](https://plus.google.com/s/%23Microscopic/posts) [#Imaging](https://plus.google.com/s/%23Imaging/posts) [#Music](https://plus.google.com/s/%23Music/posts) [#Audio](https://plus.google.com/s/%23Audio/posts) [#Microscopy](https://plus.google.com/s/%23Microscopy/posts) [#Vinyl](https://plus.google.com/s/%23Vinyl/posts) [#LP](https://plus.google.com/s/%23LP/posts) [#Record](https://plus.google.com/s/%23Record/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/QQ6uLfn6DEL)
 
-![Electron Microscope Imagery of Vinyl LP](/assets/img/2015-09-15-Electron-Microscope-Imagery-of-Vinyl-LP.gif)
+![Electron Microscope Imagery of Vinyl LP](https://i.imgur.com/hibvigA.gif)

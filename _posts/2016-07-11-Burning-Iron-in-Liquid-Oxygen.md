@@ -12,4 +12,4 @@ Source: <https://youtu.be/6NNt0Pup6jU>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Iron](https://plus.google.com/s/%23Iron/posts) [#Oxygen](https://plus.google.com/s/%23Oxygen/posts) [#LiquidOxygen](https://plus.google.com/s/%23LiquidOxygen/posts) [#Liquid](https://plus.google.com/s/%23Liquid/posts) [#Burning](https://plus.google.com/s/%23Burning/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Periodic](https://plus.google.com/s/%23Periodic/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/U2HCuySQhQi)
 
-![Burning Iron in Liquid Oxygen](/assets/img/2016-07-11-Burning-Iron-in-Liquid-Oxygen.gif)
+![Burning Iron in Liquid Oxygen](https://i.imgur.com/wMFCagA.gif)

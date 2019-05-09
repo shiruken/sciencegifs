@@ -14,4 +14,4 @@ Source: <https://youtu.be/uENITui5_jU> (brusspup)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Vibration](https://plus.google.com/s/%23Vibration/posts) [#Frequency](https://plus.google.com/s/%23Frequency/posts) [#Soundwave](https://plus.google.com/s/%23Soundwave/posts) [#Audio](https://plus.google.com/s/%23Audio/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Gravity](https://plus.google.com/s/%23Gravity/posts) [#Aliasing](https://plus.google.com/s/%23Aliasing/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/SjhJ1zG1uh4)
 
-![Vibrating (and recording) water stream at same frequency](/assets/img/2015-06-02-Vibrating-and-recording-water-stream-at-same-frequency.gif)
+![Vibrating (and recording) water stream at same frequency](https://i.imgur.com/6LGqqmL.gif)

@@ -13,4 +13,4 @@ Learn More: <https://goo.gl/fGXGEI>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Exoplanet](https://plus.google.com/s/%23Exoplanet/posts) [#Astronomy](https://plus.google.com/s/%23Astronomy/posts) [#Astrophysics](https://plus.google.com/s/%23Astrophysics/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#Spitzer](https://plus.google.com/s/%23Spitzer/posts) [#Telescope](https://plus.google.com/s/%23Telescope/posts) [#Trappist](https://plus.google.com/s/%23Trappist/posts) [#Exploration](https://plus.google.com/s/%23Exploration/posts) [#Discovery](https://plus.google.com/s/%23Discovery/posts) [#Data](https://plus.google.com/s/%23Data/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/YLsbqtbppVr)
 
-![How NASA discovered seven new exoplanets](/assets/img/2017-03-05-How-NASA-discovered-seven-new-exoplanets.gif)
+![How NASA discovered seven new exoplanets](https://i.imgur.com/9QDC3mr.gif)

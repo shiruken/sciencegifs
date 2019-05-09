@@ -10,4 +10,4 @@ Source: <https://youtu.be/lV8PI4R5nI4> (NASA)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#ClimateChange](https://plus.google.com/s/%23ClimateChange/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#NOAA](https://plus.google.com/s/%23NOAA/posts) [#Temperature](https://plus.google.com/s/%23Temperature/posts) [#GlobalWarming](https://plus.google.com/s/%23GlobalWarming/posts) [#CarbonDioxide](https://plus.google.com/s/%23CarbonDioxide/posts) [#Emissions](https://plus.google.com/s/%23Emissions/posts) [#Heating](https://plus.google.com/s/%23Heating/posts) [#SeaLevel](https://plus.google.com/s/%23SeaLevel/posts) [#Map](https://plus.google.com/s/%23Map/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/hLLgns8N2jq)
 
-![Global Temperature Since 1880](/assets/img/2016-01-22-Global-Temperature-Since-1880.gif)
+![Global Temperature Since 1880](https://i.imgur.com/jz1tKcd.gif)

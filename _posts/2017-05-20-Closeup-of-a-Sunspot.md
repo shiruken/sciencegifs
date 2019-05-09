@@ -16,4 +16,4 @@ Learn More: <http://bbso.njit.edu/>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Sun](https://plus.google.com/s/%23Sun/posts) [#Sunspot](https://plus.google.com/s/%23Sunspot/posts) [#Solar](https://plus.google.com/s/%23Solar/posts) [#Observatory](https://plus.google.com/s/%23Observatory/posts) [#BigBear](https://plus.google.com/s/%23BigBear/posts) [#NIJT](https://plus.google.com/s/%23NIJT/posts) [#BBSO](https://plus.google.com/s/%23BBSO/posts) [#Telescope](https://plus.google.com/s/%23Telescope/posts) [#Plasma](https://plus.google.com/s/%23Plasma/posts) [#Star](https://plus.google.com/s/%23Star/posts) [#Fusion](https://plus.google.com/s/%23Fusion/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/MDSn6A3YDP7)
 
-![Closeup of a Sunspot](/assets/img/2017-05-20-Closeup-of-a-Sunspot.gif)
+![Closeup of a Sunspot](https://i.imgur.com/C2VKqrv.gif)

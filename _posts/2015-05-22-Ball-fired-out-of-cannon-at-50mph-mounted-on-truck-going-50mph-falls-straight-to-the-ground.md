@@ -10,4 +10,4 @@ Source: <https://youtu.be/BLuI118nhzc> (Mythbusters)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Newtonian](https://plus.google.com/s/%23Newtonian/posts) [#Mechanics](https://plus.google.com/s/%23Mechanics/posts) [#Acceleration](https://plus.google.com/s/%23Acceleration/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/8DZZTZgUJtd)
 
-![Ball fired out of cannon at 50mph mounted on truck going 50mph falls straight to the ground](/assets/img/2015-05-22-Ball-fired-out-of-cannon-at-50mph-mounted-on-truck-going-50mph-falls-straight-to-the-ground.gif)
+![Ball fired out of cannon at 50mph mounted on truck going 50mph falls straight to the ground](https://i.imgur.com/YUnweHG.gif)

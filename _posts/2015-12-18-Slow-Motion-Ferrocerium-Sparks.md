@@ -10,4 +10,4 @@ Source: <https://youtu.be/qO9g1_BTz0o> (The Slow Mo Guys)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Ferrocerium](https://plus.google.com/s/%23Ferrocerium/posts) [#Flint](https://plus.google.com/s/%23Flint/posts) [#Steel](https://plus.google.com/s/%23Steel/posts) [#Fire](https://plus.google.com/s/%23Fire/posts) [#Sparks](https://plus.google.com/s/%23Sparks/posts) [#SlowMotion](https://plus.google.com/s/%23SlowMotion/posts) [#SlowMo](https://plus.google.com/s/%23SlowMo/posts) [#SloMo](https://plus.google.com/s/%23SloMo/posts) [#SlowMoGuys](https://plus.google.com/s/%23SlowMoGuys/posts) [#Physics](https://plus.google.com/s/%23Physics/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/Yo3Gn9d68Rt)
 
-![Slow Motion Ferrocerium Sparks](/assets/img/2015-12-18-Slow-Motion-Ferrocerium-Sparks.gif)
+![Slow Motion Ferrocerium Sparks](https://i.imgur.com/Owqgv1x.gif)

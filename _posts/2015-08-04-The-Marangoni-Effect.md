@@ -10,4 +10,4 @@ Source: <https://youtu.be/d2RdUv4Zvps>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Paint](https://plus.google.com/s/%23Paint/posts) [#Gasoline](https://plus.google.com/s/%23Gasoline/posts) [#Gas](https://plus.google.com/s/%23Gas/posts) [#Marangoni](https://plus.google.com/s/%23Marangoni/posts) [#Physical](https://plus.google.com/s/%23Physical/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/XjvMu6g4HbR)
 
-![The Marangoni Effect](/assets/img/2015-08-04-The-Marangoni-Effect.gif)
+![The Marangoni Effect](https://i.imgur.com/z1G5uBy.gif)

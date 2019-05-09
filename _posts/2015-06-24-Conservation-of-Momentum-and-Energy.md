@@ -12,4 +12,4 @@ Source: <https://youtu.be/2UHS883_P60>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Newton](https://plus.google.com/s/%23Newton/posts) [#Conservation](https://plus.google.com/s/%23Conservation/posts) [#ConservationOfEnergy](https://plus.google.com/s/%23ConservationOfEnergy/posts) [#Momentum](https://plus.google.com/s/%23Momentum/posts) [#Energy](https://plus.google.com/s/%23Energy/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/RN5eq3eB61x)
 
-![Conservation of Momentum (and Energy)](/assets/img/2015-06-24-Conservation-of-Momentum-and-Energy.gif)
+![Conservation of Momentum (and Energy)](https://i.imgur.com/doZ0bRa.gif)

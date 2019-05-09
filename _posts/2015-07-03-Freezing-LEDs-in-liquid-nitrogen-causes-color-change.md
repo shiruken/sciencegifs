@@ -10,4 +10,4 @@ Source: <https://youtu.be/5PquJdIK_z8>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#LED](https://plus.google.com/s/%23LED/posts) [#LiquidNitrogen](https://plus.google.com/s/%23LiquidNitrogen/posts) [#Semiconductor](https://plus.google.com/s/%23Semiconductor/posts) [#Diode](https://plus.google.com/s/%23Diode/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/f1714MtdxGD)
 
-![Freezing LEDs in liquid nitrogen causes color change](/assets/img/2015-07-03-Freezing-LEDs-in-liquid-nitrogen-causes-color-change.gif)
+![Freezing LEDs in liquid nitrogen causes color change](https://i.imgur.com/9kXxA8f.gif)

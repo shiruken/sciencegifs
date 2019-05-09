@@ -12,4 +12,4 @@ Source: <https://youtu.be/NhXMXiXOWAA>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#LHC](https://plus.google.com/s/%23LHC/posts) [#LargeHadronCollider](https://plus.google.com/s/%23LargeHadronCollider/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#StandardModel](https://plus.google.com/s/%23StandardModel/posts) [#CERN](https://plus.google.com/s/%23CERN/posts) [#Animation](https://plus.google.com/s/%23Animation/posts) [#ATLAS](https://plus.google.com/s/%23ATLAS/posts) [#Collision](https://plus.google.com/s/%23Collision/posts) [#ParticleAccelerator](https://plus.google.com/s/%23ParticleAccelerator/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/5F8gSDThj8x)
 
-![Proton collision in the Large Hadron Collider](/assets/img/2015-07-08-Proton-collision-in-the-Large-Hadron-Collider.gif)
+![Proton collision in the Large Hadron Collider](https://i.imgur.com/trhtfNs.gif)

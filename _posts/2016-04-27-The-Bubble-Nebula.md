@@ -12,4 +12,4 @@ Source: <http://goo.gl/cEGKHw> (NASA)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Hubble](https://plus.google.com/s/%23Hubble/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#Telescope](https://plus.google.com/s/%23Telescope/posts) [#BubbleNebula](https://plus.google.com/s/%23BubbleNebula/posts) [#Bubble](https://plus.google.com/s/%23Bubble/posts) [#Nebula](https://plus.google.com/s/%23Nebula/posts) [#Star](https://plus.google.com/s/%23Star/posts) [#Gas](https://plus.google.com/s/%23Gas/posts) [#Astrophysics](https://plus.google.com/s/%23Astrophysics/posts) [#Astronomy](https://plus.google.com/s/%23Astronomy/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/3h4v576MxYZ)
 
-![The Bubble Nebula](/assets/img/2016-04-27-The-Bubble-Nebula.gif)
+![The Bubble Nebula](https://i.imgur.com/ZPsmDRY.gif)

@@ -12,4 +12,4 @@ Source: <https://youtu.be/b2YrZNahqiw>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Caesium](https://plus.google.com/s/%23Caesium/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts) [#ChemicalReaction](https://plus.google.com/s/%23ChemicalReaction/posts) [#Exothermic](https://plus.google.com/s/%23Exothermic/posts) [#TestTube](https://plus.google.com/s/%23TestTube/posts) [#Hydrogen](https://plus.google.com/s/%23Hydrogen/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/gYExHYzjsNY)
 
-![Caesium reacting with water](/assets/img/2015-09-25-Caesium-reacting-with-water.gif)
+![Caesium reacting with water](https://i.imgur.com/TTUlTxm.gif)

@@ -12,4 +12,4 @@ Source: <https://youtu.be/JOHdZsQXw7I>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#Sugar](https://plus.google.com/s/%23Sugar/posts) [#GiantGummyBear](https://plus.google.com/s/%23GiantGummyBear/posts) [#GummyBear](https://plus.google.com/s/%23GummyBear/posts) [#PotassiumChloride](https://plus.google.com/s/%23PotassiumChloride/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts) [#Explosion](https://plus.google.com/s/%23Explosion/posts) [#Fire](https://plus.google.com/s/%23Fire/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/j2iF58kF6G1)
 
-![Reaction of sugar with potassium chlorate](/assets/img/2015-07-06-Reaction-of-sugar-with-potassium-chlorate.gif)
+![Reaction of sugar with potassium chlorate](https://i.imgur.com/EKWPgP5.gif)

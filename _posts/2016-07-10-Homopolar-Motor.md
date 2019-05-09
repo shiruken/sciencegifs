@@ -14,4 +14,4 @@ Source: <https://youtu.be/wUqbvHOW6Us>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Motor](https://plus.google.com/s/%23Motor/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Magnetism](https://plus.google.com/s/%23Magnetism/posts) [#Magnetic](https://plus.google.com/s/%23Magnetic/posts) [#Magnet](https://plus.google.com/s/%23Magnet/posts) [#Battery](https://plus.google.com/s/%23Battery/posts) [#Electricity](https://plus.google.com/s/%23Electricity/posts) [#Electromagnetism](https://plus.google.com/s/%23Electromagnetism/posts) [#EM](https://plus.google.com/s/%23EM/posts) [#Cooper](https://plus.google.com/s/%23Cooper/posts) [#Wire](https://plus.google.com/s/%23Wire/posts) [#Polar](https://plus.google.com/s/%23Polar/posts) [#Polarity](https://plus.google.com/s/%23Polarity/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/SozUogUSzsh)
 
-![Homopolar Motor](/assets/img/2016-07-10-Homopolar-Motor.gif)
+![Homopolar Motor](https://i.imgur.com/Fxy8TUj.gif)

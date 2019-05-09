@@ -13,4 +13,4 @@ Learn More: <http://skullsinthestars.com/2013/05/02/physics-demonstrations-chlad
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Acoustics](https://plus.google.com/s/%23Acoustics/posts) [#Chladni](https://plus.google.com/s/%23Chladni/posts) [#Pattern](https://plus.google.com/s/%23Pattern/posts) [#Resonance](https://plus.google.com/s/%23Resonance/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Audio](https://plus.google.com/s/%23Audio/posts) [#Frequency](https://plus.google.com/s/%23Frequency/posts) [#Vibration](https://plus.google.com/s/%23Vibration/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/JhcDEDm6eFx)
 
-![Visualizing resonance with Chladni figures](/assets/img/2015-05-29-Visualizing-resonance-with-Chladni-figures.gif)
+![Visualizing resonance with Chladni figures](https://i.imgur.com/YpzkMvG.gif)

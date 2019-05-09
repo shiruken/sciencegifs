@@ -12,4 +12,4 @@ Source: <https://youtu.be/cjtHNxf01tQ>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#CT](https://plus.google.com/s/%23CT/posts) [#CAT](https://plus.google.com/s/%23CAT/posts) [#ComputerizedTomography](https://plus.google.com/s/%23ComputerizedTomography/posts) [#Medical](https://plus.google.com/s/%23Medical/posts) [#MedicalImaging](https://plus.google.com/s/%23MedicalImaging/posts) [#XRay](https://plus.google.com/s/%23XRay/posts) [#Computer](https://plus.google.com/s/%23Computer/posts) [#Hardware](https://plus.google.com/s/%23Hardware/posts) [#Imaging](https://plus.google.com/s/%23Imaging/posts) [#Technology](https://plus.google.com/s/%23Technology/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/boudrtdfQPR)
 
-![The Inside of a CT Scanner](/assets/img/2016-01-08-The-Inside-of-a-CT-Scanner.gif)
+![The Inside of a CT Scanner](https://i.imgur.com/2eGYqgm.gif)

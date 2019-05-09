@@ -12,4 +12,4 @@ Source: <https://youtu.be/TisYXP-7D2w>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#DryIce](https://plus.google.com/s/%23DryIce/posts) [#CarbonDioxide](https://plus.google.com/s/%23CarbonDioxide/posts) [#Solid](https://plus.google.com/s/%23Solid/posts) [#Gas](https://plus.google.com/s/%23Gas/posts) [#Sublimate](https://plus.google.com/s/%23Sublimate/posts) [#Sublimation](https://plus.google.com/s/%23Sublimation/posts) [#Phase](https://plus.google.com/s/%23Phase/posts) [#Transition](https://plus.google.com/s/%23Transition/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#Temperature](https://plus.google.com/s/%23Temperature/posts) [#Pressure](https://plus.google.com/s/%23Pressure/posts) [#Vapor](https://plus.google.com/s/%23Vapor/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/HsCt7iihJWJ)
 
-![Sublimation of Dry Ice](/assets/img/2016-06-08-Sublimation-of-Dry-Ice.gif)
+![Sublimation of Dry Ice](https://i.imgur.com/vFngrtT.gif)

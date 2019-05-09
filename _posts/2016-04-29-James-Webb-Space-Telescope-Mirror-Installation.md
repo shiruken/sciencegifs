@@ -15,4 +15,4 @@ Learn More: <http://goo.gl/yqWKS7>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#JamesWebb](https://plus.google.com/s/%23JamesWebb/posts) [#Telescope](https://plus.google.com/s/%23Telescope/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#Satellite](https://plus.google.com/s/%23Satellite/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Mirror](https://plus.google.com/s/%23Mirror/posts) [#Installation](https://plus.google.com/s/%23Installation/posts) [#Timelapse](https://plus.google.com/s/%23Timelapse/posts) [#Gold](https://plus.google.com/s/%23Gold/posts) [#Mirrors](https://plus.google.com/s/%23Mirrors/posts) [#Engineering](https://plus.google.com/s/%23Engineering/posts) [#Robotics](https://plus.google.com/s/%23Robotics/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/W3PLtDNSiFx)
 
-![James Webb Space Telescope Mirror Installation](/assets/img/2016-04-29-James-Webb-Space-Telescope-Mirror-Installation.gif)
+![James Webb Space Telescope Mirror Installation](https://i.imgur.com/RNSQBut.gif)

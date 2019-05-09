@@ -10,4 +10,4 @@ Source: <https://youtu.be/ntk8XsxVDi0>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Cancer](https://plus.google.com/s/%23Cancer/posts) [#TCell](https://plus.google.com/s/%23TCell/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/Tdn58baWWcz)
 
-![Killer T-Cell killing a cancer cell](/assets/img/2015-05-21-Killer-TCell-killing-a-cancer-cell.gif)
+![Killer T-Cell killing a cancer cell](https://i.imgur.com/oX0wLTC.gif)

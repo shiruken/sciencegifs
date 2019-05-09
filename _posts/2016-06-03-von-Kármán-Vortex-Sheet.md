@@ -12,4 +12,4 @@ Source: <http://www.bbc.co.uk/programmes/p00gbfn2> (BBC)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Fluid](https://plus.google.com/s/%23Fluid/posts) [#Dynamics](https://plus.google.com/s/%23Dynamics/posts) [#Meteorology](https://plus.google.com/s/%23Meteorology/posts) [#Clouds](https://plus.google.com/s/%23Clouds/posts) [#Vortex](https://plus.google.com/s/%23Vortex/posts) [#vonKarman](https://plus.google.com/s/%23vonKarman/posts) [#Sheet](https://plus.google.com/s/%23Sheet/posts) [#Mountains](https://plus.google.com/s/%23Mountains/posts) [#Atmosphere](https://plus.google.com/s/%23Atmosphere/posts) [#Flow](https://plus.google.com/s/%23Flow/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/MWM7aRFTpvK)
 
-![von Kármán Vortex Sheet](/assets/img/2016-06-03-von-Kármán-Vortex-Sheet.gif)
+![von Kármán Vortex Sheet](https://i.imgur.com/VQhjl05.gif)

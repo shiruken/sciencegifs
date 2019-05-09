@@ -16,4 +16,4 @@ Source: <https://youtu.be/4PntrFHDwqA>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Thanksgiving](https://plus.google.com/s/%23Thanksgiving/posts) [#Fryer](https://plus.google.com/s/%23Fryer/posts) [#DeepFryer](https://plus.google.com/s/%23DeepFryer/posts) [#Turkey](https://plus.google.com/s/%23Turkey/posts) [#Cooking](https://plus.google.com/s/%23Cooking/posts) [#Fire](https://plus.google.com/s/%23Fire/posts) [#Danger](https://plus.google.com/s/%23Danger/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Oil](https://plus.google.com/s/%23Oil/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/8mAdCE1qxwo)
 
-![Turkey Fryer Explosion](/assets/img/2015-11-26-Turkey-Fryer-Explosion.gif)
+![Turkey Fryer Explosion](https://i.imgur.com/woCXDNR.gif)

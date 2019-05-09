@@ -12,4 +12,4 @@ Source: <https://youtu.be/aSUJsT0YNxA>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Titanium](https://plus.google.com/s/%23Titanium/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#Anodizing](https://plus.google.com/s/%23Anodizing/posts) [#TitaniumOxide](https://plus.google.com/s/%23TitaniumOxide/posts) [#Refraction](https://plus.google.com/s/%23Refraction/posts) [#Electrochemistry](https://plus.google.com/s/%23Electrochemistry/posts) [#Electrolytic](https://plus.google.com/s/%23Electrolytic/posts) ﻿
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/cbRcXvpVBNz)
 
-![Anodizing Titanium](/assets/img/2015-12-15-Anodizing-Titanium.gif)
+![Anodizing Titanium](https://i.imgur.com/aWRaU6Z.gif)

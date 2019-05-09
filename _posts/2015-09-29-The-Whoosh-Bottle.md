@@ -10,4 +10,4 @@ Source: <https://youtu.be/0jCCP6rUEsc>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Whoosh](https://plus.google.com/s/%23Whoosh/posts) [#WhooshBottle](https://plus.google.com/s/%23WhooshBottle/posts) [#Combustion](https://plus.google.com/s/%23Combustion/posts) [#Alcohol](https://plus.google.com/s/%23Alcohol/posts) [#Bottle](https://plus.google.com/s/%23Bottle/posts) [#Fire](https://plus.google.com/s/%23Fire/posts) [#Flame](https://plus.google.com/s/%23Flame/posts) [#Classroom](https://plus.google.com/s/%23Classroom/posts) [#Demonstration](https://plus.google.com/s/%23Demonstration/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/XCH8G9M4ZT6)
 
-![The Whoosh Bottle](/assets/img/2015-09-29-The-Whoosh-Bottle.gif)
+![The Whoosh Bottle](https://i.imgur.com/2IM7JsX.gif)

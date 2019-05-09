@@ -10,4 +10,4 @@ Source: <https://youtu.be/4HHJv8lPERQ>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Quantum](https://plus.google.com/s/%23Quantum/posts) [#Magnetism](https://plus.google.com/s/%23Magnetism/posts) [#Levitation](https://plus.google.com/s/%23Levitation/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/CE7vb7jmB27)
 
-![Quantum levitation](/assets/img/2015-05-26-Quantum-levitation.gif)
+![Quantum levitation](https://i.imgur.com/vKxjj2k.gif)

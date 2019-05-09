@@ -12,4 +12,4 @@ Source: <https://youtu.be/c3fJRRCAIdk>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts) [#BarkingDog](https://plus.google.com/s/%23BarkingDog/posts) [#SlowMotion](https://plus.google.com/s/%23SlowMotion/posts) [#HighSpeed](https://plus.google.com/s/%23HighSpeed/posts) [#Exothermic](https://plus.google.com/s/%23Exothermic/posts) [#Chemical](https://plus.google.com/s/%23Chemical/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#Combustion](https://plus.google.com/s/%23Combustion/posts) [#Flame](https://plus.google.com/s/%23Flame/posts) [#Oscillation](https://plus.google.com/s/%23Oscillation/posts) [#Cool](https://plus.google.com/s/%23Cool/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/XHBpP25NyGh)
 
-![Slow Motion Barking Dog Reaction](/assets/img/2015-09-30-Slow-Motion-Barking-Dog-Reaction.gif)
+![Slow Motion Barking Dog Reaction](https://i.imgur.com/65IbRTW.gif)

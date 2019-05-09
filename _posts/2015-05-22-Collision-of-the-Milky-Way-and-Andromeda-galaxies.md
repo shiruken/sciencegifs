@@ -10,4 +10,4 @@ Source: _Cosmos: A Spacetime Odyssey_ (Episode 3 -  "When Knowledge Conquered Fe
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Galaxy](https://plus.google.com/s/%23Galaxy/posts) [#Simulation](https://plus.google.com/s/%23Simulation/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#Astrophysics](https://plus.google.com/s/%23Astrophysics/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/brtt4vYJhsp)
 
-![Collision of the Milky Way and Andromeda galaxies](/assets/img/2015-05-22-Collision-of-the-Milky-Way-and-Andromeda-galaxies.gif)
+![Collision of the Milky Way and Andromeda galaxies](https://i.imgur.com/XsfMXAj.gif)

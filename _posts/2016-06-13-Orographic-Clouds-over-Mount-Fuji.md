@@ -12,4 +12,4 @@ Source: <https://youtu.be/gvAK63KOJM8>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#MountFuji](https://plus.google.com/s/%23MountFuji/posts) [#MtFuji](https://plus.google.com/s/%23MtFuji/posts) [#Fuji](https://plus.google.com/s/%23Fuji/posts) [#Japan](https://plus.google.com/s/%23Japan/posts) [#Mountain](https://plus.google.com/s/%23Mountain/posts) [#Volcano](https://plus.google.com/s/%23Volcano/posts) [#Sunset](https://plus.google.com/s/%23Sunset/posts) [#Sun](https://plus.google.com/s/%23Sun/posts) [#Clouds](https://plus.google.com/s/%23Clouds/posts) [#Orographic](https://plus.google.com/s/%23Orographic/posts) [#Light](https://plus.google.com/s/%23Light/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/2B5GSMFx8Vm)
 
-![Orographic Clouds over Mount Fuji](/assets/img/2016-06-13-Orographic-Clouds-over-Mount-Fuji.gif)
+![Orographic Clouds over Mount Fuji](https://i.imgur.com/BYpEFIy.gif)

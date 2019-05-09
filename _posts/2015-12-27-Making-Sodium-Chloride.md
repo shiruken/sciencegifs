@@ -12,4 +12,4 @@ Source: <https://youtu.be/d2geiGKFveE> (UCBerkeley)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts) [#SodiumChloride](https://plus.google.com/s/%23SodiumChloride/posts) [#Salt](https://plus.google.com/s/%23Salt/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#Exothermic](https://plus.google.com/s/%23Exothermic/posts) [#Chlorine](https://plus.google.com/s/%23Chlorine/posts) [#Sodium](https://plus.google.com/s/%23Sodium/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/WJvABp67ebM)
 
-![Making Sodium Chloride](/assets/img/2015-12-27-Making-Sodium-Chloride.gif)
+![Making Sodium Chloride](https://i.imgur.com/3HTNwtN.gif)

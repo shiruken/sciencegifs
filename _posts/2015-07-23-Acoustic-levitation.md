@@ -10,4 +10,4 @@ Source: <https://youtu.be/669AcEBpdsY>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Acoustics](https://plus.google.com/s/%23Acoustics/posts) [#Pressure](https://plus.google.com/s/%23Pressure/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Node](https://plus.google.com/s/%23Node/posts) [#StandingWave](https://plus.google.com/s/%23StandingWave/posts) [#NationalLab](https://plus.google.com/s/%23NationalLab/posts) [#Sound](https://plus.google.com/s/%23Sound/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/3BBSxvABF9e)
 
-![Acoustic levitation](/assets/img/2015-07-23-Acoustic-levitation.gif)
+![Acoustic levitation](https://i.imgur.com/ijof1Nw.gif)

@@ -10,4 +10,4 @@ Source: <https://youtu.be/_zPH0rdZrJY>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Caesium](https://plus.google.com/s/%23Caesium/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Alkali](https://plus.google.com/s/%23Alkali/posts) [#phenolphthalein](https://plus.google.com/s/%23phenolphthalein/posts) [#pH](https://plus.google.com/s/%23pH/posts) [#Base](https://plus.google.com/s/%23Base/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/46p8Le851v4)
 
-![Caesium in Water](/assets/img/2015-11-17-Caesium-in-Water.gif)
+![Caesium in Water](https://i.imgur.com/Dv95cmk.gif)

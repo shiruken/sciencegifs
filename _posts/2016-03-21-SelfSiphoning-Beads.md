@@ -15,4 +15,4 @@ Learn Way More: <http://goo.gl/NRWXE9>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Beads](https://plus.google.com/s/%23Beads/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#SelfSiphoning](https://plus.google.com/s/%23SelfSiphoning/posts) [#Mould](https://plus.google.com/s/%23Mould/posts) [#MouldEffect](https://plus.google.com/s/%23MouldEffect/posts) [#Momentum](https://plus.google.com/s/%23Momentum/posts) [#SlowMo](https://plus.google.com/s/%23SlowMo/posts) [#SlowMotion](https://plus.google.com/s/%23SlowMotion/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/V9dvPqoeReh)
 
-![Self-Siphoning Beads](/assets/img/2016-03-21-SelfSiphoning-Beads.gif)
+![Self-Siphoning Beads](https://i.imgur.com/OCNcjhA.gif)

@@ -12,4 +12,4 @@ Source: <http://www.nasa.gov/feature/goddard/from-a-million-miles-away-nasa-came
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Earth](https://plus.google.com/s/%23Earth/posts) [#Moon](https://plus.google.com/s/%23Moon/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#Satellite](https://plus.google.com/s/%23Satellite/posts) [#DSCOVR](https://plus.google.com/s/%23DSCOVR/posts) [#DeepSpaceClimateObservatory](https://plus.google.com/s/%23DeepSpaceClimateObservatory/posts) [#EPIC](https://plus.google.com/s/%23EPIC/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Imaging](https://plus.google.com/s/%23Imaging/posts) [#NOAA](https://plus.google.com/s/%23NOAA/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/HJ5EojQaEhi)
 
-![The Moon Crossing the Face of the Earth](/assets/img/2015-08-05-The-Moon-Crossing-the-Face-of-the-Earth.gif)
+![The Moon Crossing the Face of the Earth](https://i.imgur.com/Vd2zU1Z.gif)

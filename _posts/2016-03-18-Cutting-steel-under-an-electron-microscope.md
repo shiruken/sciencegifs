@@ -12,4 +12,4 @@ Source: <https://youtu.be/mRuSYQ5Npek>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#ElectronMicroscope](https://plus.google.com/s/%23ElectronMicroscope/posts) [#Steel](https://plus.google.com/s/%23Steel/posts) [#Cutting](https://plus.google.com/s/%23Cutting/posts) [#Shearing](https://plus.google.com/s/%23Shearing/posts) [#Microscopy](https://plus.google.com/s/%23Microscopy/posts) [#Electron](https://plus.google.com/s/%23Electron/posts) [#Carbide](https://plus.google.com/s/%23Carbide/posts) [#Spindle](https://plus.google.com/s/%23Spindle/posts) [#Hardness](https://plus.google.com/s/%23Hardness/posts) [#Softness](https://plus.google.com/s/%23Softness/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/gsBXygpJw5k)
 
-![Cutting steel under an electron microscope](/assets/img/2016-03-18-Cutting-steel-under-an-electron-microscope.gif)
+![Cutting steel under an electron microscope](https://i.imgur.com/aZW4p7U.gif)

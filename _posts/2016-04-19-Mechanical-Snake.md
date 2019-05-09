@@ -10,4 +10,4 @@ Source: <https://youtu.be/sIpIAbWo_2A>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Engineering](https://plus.google.com/s/%23Engineering/posts) [#Mechanical](https://plus.google.com/s/%23Mechanical/posts) [#Robot](https://plus.google.com/s/%23Robot/posts) [#Robotics](https://plus.google.com/s/%23Robotics/posts) [#Sea](https://plus.google.com/s/%23Sea/posts) [#Snake](https://plus.google.com/s/%23Snake/posts) [#Biology](https://plus.google.com/s/%23Biology/posts) [#Nature](https://plus.google.com/s/%23Nature/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/gtih9AC5eCY)
 
-![Mechanical Snake](/assets/img/2016-04-19-Mechanical-Snake.gif)
+![Mechanical Snake](https://i.imgur.com/JVMLkF7.gif)

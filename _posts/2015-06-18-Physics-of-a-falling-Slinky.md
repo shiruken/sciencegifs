@@ -10,4 +10,4 @@ Source: <https://youtu.be/8UimHnsWSBc>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Slinky](https://plus.google.com/s/%23Slinky/posts) [#Mechanics](https://plus.google.com/s/%23Mechanics/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Hooke](https://plus.google.com/s/%23Hooke/posts) [#Spring](https://plus.google.com/s/%23Spring/posts) [#Gravity](https://plus.google.com/s/%23Gravity/posts) [#Acceleration](https://plus.google.com/s/%23Acceleration/posts) [#CenterOfMass](https://plus.google.com/s/%23CenterOfMass/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/bYLFtxd4CF7)
 
-![Physics of a falling Slinky](/assets/img/2015-06-18-Physics-of-a-falling-Slinky.gif)
+![Physics of a falling Slinky](https://i.imgur.com/1SQhgBn.gif)

@@ -17,4 +17,4 @@ Journal Article: <https://goo.gl/JRuiu7> (Science)
 
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/j1VmuyDuHVX)
 
-![Cell Migrating Through Collagen Matrix](/assets/img/2018-04-07-Cell-Migrating-Through-Collagen-Matrix.gif)
+![Cell Migrating Through Collagen Matrix](https://i.imgur.com/BikQ2J6.gif)

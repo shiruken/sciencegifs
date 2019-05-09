@@ -10,4 +10,4 @@ Source: <http://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=12104> (NASA Goddard)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Sun](https://plus.google.com/s/%23Sun/posts) [#Solar](https://plus.google.com/s/%23Solar/posts) [#Magnetic](https://plus.google.com/s/%23Magnetic/posts) [#Field](https://plus.google.com/s/%23Field/posts) [#MagneticField](https://plus.google.com/s/%23MagneticField/posts) [#FieldLines](https://plus.google.com/s/%23FieldLines/posts) [#Visualization](https://plus.google.com/s/%23Visualization/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Goddard](https://plus.google.com/s/%23Goddard/posts) [#Outerspace](https://plus.google.com/s/%23Outerspace/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Astronomy](https://plus.google.com/s/%23Astronomy/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/1qWB1NDNnHz)
 
-![The Sun's Magnetic Field](/assets/img/2016-02-02-The-Suns-Magnetic-Field.gif)
+![The Sun's Magnetic Field](https://i.imgur.com/lxoGN6W.gif)

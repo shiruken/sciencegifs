@@ -15,4 +15,4 @@ Source: <https://www.giannisarcone.com/Muller_lyer_illusion.html>
 
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/7FDB1k3KhkY)
 
-![Müller-Lyer Illusion](/assets/img/2018-03-24-MüllerLyer-Illusion.gif)
+![Müller-Lyer Illusion](https://i.imgur.com/UUkGYXq.gif)

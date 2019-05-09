@@ -12,4 +12,4 @@ Source: <https://youtu.be/1YpBdVjnaT0>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Electromagnet](https://plus.google.com/s/%23Electromagnet/posts) [#Electromagnetic](https://plus.google.com/s/%23Electromagnetic/posts) [#Catapult](https://plus.google.com/s/%23Catapult/posts) [#AircraftCarrier](https://plus.google.com/s/%23AircraftCarrier/posts) [#USA](https://plus.google.com/s/%23USA/posts) [#US](https://plus.google.com/s/%23US/posts) [#Navy](https://plus.google.com/s/%23Navy/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/UqQzCWGzRzn)
 
-![Testing first electromagnetic catapult on aircraft carrier](/assets/img/2015-09-09-Testing-first-electromagnetic-catapult-on-aircraft-carrier.gif)
+![Testing first electromagnetic catapult on aircraft carrier](https://i.imgur.com/W4FbrgU.gif)

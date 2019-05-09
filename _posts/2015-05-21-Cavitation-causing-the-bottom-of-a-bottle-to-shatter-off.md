@@ -10,4 +10,4 @@ Source: <https://youtu.be/lj3x2U4CaEs>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#SlowMoGuys](https://plus.google.com/s/%23SlowMoGuys/posts) [#Pressure](https://plus.google.com/s/%23Pressure/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/XcbAoYdKW3c)
 
-![Cavitation causing the bottom of a bottle to shatter off](/assets/img/2015-05-21-Cavitation-causing-the-bottom-of-a-bottle-to-shatter-off.gif)
+![Cavitation causing the bottom of a bottle to shatter off](https://i.imgur.com/6gstsQa.gif)

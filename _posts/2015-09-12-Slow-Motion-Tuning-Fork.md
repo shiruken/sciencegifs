@@ -12,4 +12,4 @@ Source: <https://youtu.be/VCERs0v1OoI> (The Slow Mo Guys)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#TuningFork](https://plus.google.com/s/%23TuningFork/posts) [#TheSlowMoGuys](https://plus.google.com/s/%23TheSlowMoGuys/posts) [#SlowMotion](https://plus.google.com/s/%23SlowMotion/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Splash](https://plus.google.com/s/%23Splash/posts) [#Vibration](https://plus.google.com/s/%23Vibration/posts) [#Resonance](https://plus.google.com/s/%23Resonance/posts) [#Liquid](https://plus.google.com/s/%23Liquid/posts) [#HighSpeed](https://plus.google.com/s/%23HighSpeed/posts) [#FPS](https://plus.google.com/s/%23FPS/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/RCPZp7o7fuA)
 
-![Slow Motion Tuning Fork](/assets/img/2015-09-12-Slow-Motion-Tuning-Fork.gif)
+![Slow Motion Tuning Fork](https://i.imgur.com/lyjoltH.gif)

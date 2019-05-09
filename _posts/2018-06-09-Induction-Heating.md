@@ -12,4 +12,4 @@ Source: <https://youtu.be/DkpEz7znpnc>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Induction](https://plus.google.com/s/%23Induction/posts) [#Heating](https://plus.google.com/s/%23Heating/posts) [#Magnetism](https://plus.google.com/s/%23Magnetism/posts) [#Electromagnetism](https://plus.google.com/s/%23Electromagnetism/posts) [#Current](https://plus.google.com/s/%23Current/posts) [#Eddy](https://plus.google.com/s/%23Eddy/posts) [#Metal](https://plus.google.com/s/%23Metal/posts) [#Aluminum](https://plus.google.com/s/%23Aluminum/posts) [#Melting](https://plus.google.com/s/%23Melting/posts) [#Joule](https://plus.google.com/s/%23Joule/posts) [#Faraday](https://plus.google.com/s/%23Faraday/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/VkT5JH5S2pU)
 
-![Induction Heating](/assets/img/2018-06-09-Induction-Heating.gif)
+![Induction Heating](https://i.imgur.com/kb0NF47.gif)

@@ -10,4 +10,4 @@ Source: <https://youtu.be/lpytoIxRu0o> (Nature)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Medicine](https://plus.google.com/s/%23Medicine/posts) [#Biology](https://plus.google.com/s/%23Biology/posts) [#Computer](https://plus.google.com/s/%23Computer/posts) [#Simulation](https://plus.google.com/s/%23Simulation/posts) [#Nature](https://plus.google.com/s/%23Nature/posts) [#Cancer](https://plus.google.com/s/%23Cancer/posts) [#Tumor](https://plus.google.com/s/%23Tumor/posts) [#Model](https://plus.google.com/s/%23Model/posts) [#Growth](https://plus.google.com/s/%23Growth/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/9iVuTvEXQM1)
 
-![Simulating tumor growth](/assets/img/2015-08-28-Simulating-tumor-growth.gif)
+![Simulating tumor growth](https://i.imgur.com/ozI0L5M.gif)
