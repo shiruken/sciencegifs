@@ -11,4 +11,4 @@ Source: <https://youtu.be/bOSVX8zOPkc> (Steve Mould)
 
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/NMo6DLJUQ3K)
 
-![Self-Pouring Liquid](https://i.imgur.com/OFIBgD1.gif)
+![Self-Pouring Liquid](/assets/img/2016-06-28-SelfPouring-Liquid.gif)

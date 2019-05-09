@@ -12,4 +12,4 @@ Source: <https://twitter.com/NASAGoddard/>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Pluto](https://plus.google.com/s/%23Pluto/posts) [#Imaging](https://plus.google.com/s/%23Imaging/posts) [#Telescope](https://plus.google.com/s/%23Telescope/posts) [#Satellite](https://plus.google.com/s/%23Satellite/posts) [#PlutoFlyby](https://plus.google.com/s/%23PlutoFlyby/posts) [#NewHorizons](https://plus.google.com/s/%23NewHorizons/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Astronomy](https://plus.google.com/s/%23Astronomy/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/6U7aQXRoMLS)
 
-![85 years of Pluto](https://i.imgur.com/uxKS8Hp.gif)
+![85 years of Pluto](/assets/img/2015-07-14-85-years-of-Pluto.gif)

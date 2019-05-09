@@ -14,4 +14,4 @@ Source: <https://youtu.be/jIhvJozNplE>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Acetone](https://plus.google.com/s/%23Acetone/posts) [#Styrofoam](https://plus.google.com/s/%23Styrofoam/posts) [#Polystyrene](https://plus.google.com/s/%23Polystyrene/posts) [#Solvent](https://plus.google.com/s/%23Solvent/posts) [#Dissolve](https://plus.google.com/s/%23Dissolve/posts) [#Polymer](https://plus.google.com/s/%23Polymer/posts) [#Monomer](https://plus.google.com/s/%23Monomer/posts) [#Expanded](https://plus.google.com/s/%23Expanded/posts) [#Extruded](https://plus.google.com/s/%23Extruded/posts) [#Foam](https://plus.google.com/s/%23Foam/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/4mTKxNMufvQ)
 
-![Melting Styrofoam with Acetone](https://i.imgur.com/iH2G3CD.gif)
+![Melting Styrofoam with Acetone](/assets/img/2016-03-24-Melting-Styrofoam-with-Acetone.gif)

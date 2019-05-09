@@ -12,4 +12,4 @@ Source: <https://youtu.be/Pp9Yax8UNoM>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#SpaceShuttle](https://plus.google.com/s/%23SpaceShuttle/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Thermal](https://plus.google.com/s/%23Thermal/posts) [#Tile](https://plus.google.com/s/%23Tile/posts) [#Heating](https://plus.google.com/s/%23Heating/posts) [#Convection](https://plus.google.com/s/%23Convection/posts) [#Conduction](https://plus.google.com/s/%23Conduction/posts) [#Insulator](https://plus.google.com/s/%23Insulator/posts) [#Oven](https://plus.google.com/s/%23Oven/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/grtSW6HXzMY)
 
-![Space Shuttle Thermal Tile](https://i.imgur.com/JPsKOvW.gif)
+![Space Shuttle Thermal Tile](/assets/img/2016-02-18-Space-Shuttle-Thermal-Tile.gif)

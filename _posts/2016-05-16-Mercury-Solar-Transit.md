@@ -12,4 +12,4 @@ Source: <http://www.bbso.njit.edu/>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Mercury](https://plus.google.com/s/%23Mercury/posts) [#Sun](https://plus.google.com/s/%23Sun/posts) [#Solar](https://plus.google.com/s/%23Solar/posts) [#Transit](https://plus.google.com/s/%23Transit/posts) [#Planet](https://plus.google.com/s/%23Planet/posts) [#Star](https://plus.google.com/s/%23Star/posts) [#Telescope](https://plus.google.com/s/%23Telescope/posts) [#BigBearSolarObservatory](https://plus.google.com/s/%23BigBearSolarObservatory/posts) [#BBSO](https://plus.google.com/s/%23BBSO/posts) [#Observatory](https://plus.google.com/s/%23Observatory/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#SolarDynamicsObservatory](https://plus.google.com/s/%23SolarDynamicsObservatory/posts) [#SDO](https://plus.google.com/s/%23SDO/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/XQeJPyzKsga)
 
-![Mercury Solar Transit](https://i.imgur.com/Gj4YTie.gif)
+![Mercury Solar Transit](/assets/img/2016-05-16-Mercury-Solar-Transit.gif)

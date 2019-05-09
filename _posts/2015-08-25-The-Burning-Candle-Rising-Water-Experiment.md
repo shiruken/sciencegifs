@@ -18,4 +18,4 @@ Source: <https://youtu.be/Z2_rwr_qEkA> (brusspup)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Fire](https://plus.google.com/s/%23Fire/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#Combustion](https://plus.google.com/s/%23Combustion/posts) [#Fluid](https://plus.google.com/s/%23Fluid/posts) [#Experiment](https://plus.google.com/s/%23Experiment/posts) [#DIY](https://plus.google.com/s/%23DIY/posts) [#Candle](https://plus.google.com/s/%23Candle/posts) [#Flame](https://plus.google.com/s/%23Flame/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/dVQxEqjZzrH)
 
-![The Burning Candle - Rising Water Experiment](https://i.imgur.com/VNhvaXl.gif)
+![The Burning Candle - Rising Water Experiment](/assets/img/2015-08-25-The-Burning-Candle-Rising-Water-Experiment.gif)

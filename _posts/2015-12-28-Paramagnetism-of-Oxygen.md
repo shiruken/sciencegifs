@@ -12,4 +12,4 @@ Source: <https://youtu.be/Lt4P6ctf06Q>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Magnetism](https://plus.google.com/s/%23Magnetism/posts) [#Oxygen](https://plus.google.com/s/%23Oxygen/posts) [#LiquidOxygen](https://plus.google.com/s/%23LiquidOxygen/posts) [#Magnet](https://plus.google.com/s/%23Magnet/posts) [#Paramagnetism](https://plus.google.com/s/%23Paramagnetism/posts) [#Electrons](https://plus.google.com/s/%23Electrons/posts) [#Orbitals](https://plus.google.com/s/%23Orbitals/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#Physics](https://plus.google.com/s/%23Physics/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/8kfSjNzyyTh)
 
-![Paramagnetism of Oxygen](https://i.imgur.com/kCB0zag.gif)
+![Paramagnetism of Oxygen](/assets/img/2015-12-28-Paramagnetism-of-Oxygen.gif)

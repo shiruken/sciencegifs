@@ -10,4 +10,4 @@ Source: <https://vimeo.com/136764796>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Glass](https://plus.google.com/s/%23Glass/posts) [#3D](https://plus.google.com/s/%233D/posts) [#Printing](https://plus.google.com/s/%23Printing/posts) [#Manufacturing](https://plus.google.com/s/%23Manufacturing/posts) [#MIT](https://plus.google.com/s/%23MIT/posts) [#MediatedMatter](https://plus.google.com/s/%23MediatedMatter/posts) [#GlassLab](https://plus.google.com/s/%23GlassLab/posts) [#MITMediaLab](https://plus.google.com/s/%23MITMediaLab/posts) [#G3DP](https://plus.google.com/s/%23G3DP/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/2QduJZHEXaN)
 
-![3D Printing Glass](https://i.imgur.com/YhzVKBw.gif)
+![3D Printing Glass](/assets/img/2015-09-10-3D-Printing-Glass.gif)

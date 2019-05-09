@@ -10,4 +10,4 @@ Source: <https://youtu.be/lWmFu-_54fI>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Metal](https://plus.google.com/s/%23Metal/posts) [#Foam](https://plus.google.com/s/%23Foam/posts) [#MetalFoam](https://plus.google.com/s/%23MetalFoam/posts) [#Bullet](https://plus.google.com/s/%23Bullet/posts) [#ArmorPiercing](https://plus.google.com/s/%23ArmorPiercing/posts) [#Armor](https://plus.google.com/s/%23Armor/posts) [#Piercing](https://plus.google.com/s/%23Piercing/posts) [#MechanicalEngineering](https://plus.google.com/s/%23MechanicalEngineering/posts) [#MaterialScience](https://plus.google.com/s/%23MaterialScience/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/TfMW9MV2Fd1)
 
-![Metal foam shatters bullet](https://i.imgur.com/nvkL6sW.gif)
+![Metal foam shatters bullet](/assets/img/2016-04-11-Metal-foam-shatters-bullet.gif)

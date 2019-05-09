@@ -12,4 +12,4 @@ Source: <http://www.mbari.org/barreleye-fish-with-tubular-eyes-and-transparent-h
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Biology](https://plus.google.com/s/%23Biology/posts) [#Barreleyes](https://plus.google.com/s/%23Barreleyes/posts) [#SpookFish](https://plus.google.com/s/%23SpookFish/posts) [#Fish](https://plus.google.com/s/%23Fish/posts) [#Marine](https://plus.google.com/s/%23Marine/posts) [#MarineBiology](https://plus.google.com/s/%23MarineBiology/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Ocean](https://plus.google.com/s/%23Ocean/posts) [#Eyes](https://plus.google.com/s/%23Eyes/posts) [#DeepSea](https://plus.google.com/s/%23DeepSea/posts) [#Weird](https://plus.google.com/s/%23Weird/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/Z4DZUdWhXbL)
 
-![Barreleyes Fish](https://i.imgur.com/fmn1MjV.gif)
+![Barreleyes Fish](/assets/img/2016-02-03-Barreleyes-Fish.gif)

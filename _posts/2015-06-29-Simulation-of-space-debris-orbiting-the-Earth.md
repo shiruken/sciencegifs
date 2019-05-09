@@ -14,4 +14,4 @@ Source: <https://youtu.be/pkfKnxX-L0k>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Earth](https://plus.google.com/s/%23Earth/posts) [#Orbit](https://plus.google.com/s/%23Orbit/posts) [#SpaceJunk](https://plus.google.com/s/%23SpaceJunk/posts) [#Debris](https://plus.google.com/s/%23Debris/posts) [#Hazard](https://plus.google.com/s/%23Hazard/posts) [#Simulation](https://plus.google.com/s/%23Simulation/posts) [#Satellite](https://plus.google.com/s/%23Satellite/posts) ﻿
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/454BTfGCLrg)
 
-![Simulation of space debris orbiting the Earth](https://i.imgur.com/Plg4U6q.gif)
+![Simulation of space debris orbiting the Earth](/assets/img/2015-06-29-Simulation-of-space-debris-orbiting-the-Earth.gif)

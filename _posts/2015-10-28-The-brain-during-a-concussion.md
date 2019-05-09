@@ -12,4 +12,4 @@ Source: <https://vine.co/v/eUXxn20mKZW> (UCLA)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#UCLA](https://plus.google.com/s/%23UCLA/posts) [#Neuroscience](https://plus.google.com/s/%23Neuroscience/posts) [#Brain](https://plus.google.com/s/%23Brain/posts) [#Concussion](https://plus.google.com/s/%23Concussion/posts) [#TraumaticBrainInjury](https://plus.google.com/s/%23TraumaticBrainInjury/posts) [#TBI](https://plus.google.com/s/%23TBI/posts) [#Biology](https://plus.google.com/s/%23Biology/posts) [#Medicine](https://plus.google.com/s/%23Medicine/posts) [#Impact](https://plus.google.com/s/%23Impact/posts) [#Sports](https://plus.google.com/s/%23Sports/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/SAUutL4FnR9)
 
-![The brain during a concussion](https://i.imgur.com/dn4OG6H.gif)
+![The brain during a concussion](/assets/img/2015-10-28-The-brain-during-a-concussion.gif)

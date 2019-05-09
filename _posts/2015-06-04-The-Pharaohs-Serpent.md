@@ -10,4 +10,4 @@ Source: <https://youtu.be/PC3o2KgQstA>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#ChemicalReaction](https://plus.google.com/s/%23ChemicalReaction/posts) [#Chemical](https://plus.google.com/s/%23Chemical/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts) [#Combustion](https://plus.google.com/s/%23Combustion/posts) [#PharaohSnake](https://plus.google.com/s/%23PharaohSnake/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/Cg6Kee9FJYn)
 
-![The Pharaoh's Serpent](https://i.imgur.com/eHVXkeO.gif)
+![The Pharaoh's Serpent](/assets/img/2015-06-04-The-Pharaohs-Serpent.gif)

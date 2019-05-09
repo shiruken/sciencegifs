@@ -12,4 +12,4 @@ Source: <https://youtu.be/iKTR9bl-T00> (Z-Tech)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Laser](https://plus.google.com/s/%23Laser/posts) [#Engraving](https://plus.google.com/s/%23Engraving/posts) [#Engrave](https://plus.google.com/s/%23Engrave/posts) [#Light](https://plus.google.com/s/%23Light/posts) [#Pulse](https://plus.google.com/s/%23Pulse/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/G2V8r3wnb8w)
 
-![High Speed Laser Engraving](https://i.imgur.com/9i9Ckew.gif)
+![High Speed Laser Engraving](/assets/img/2018-03-10-High-Speed-Laser-Engraving.gif)

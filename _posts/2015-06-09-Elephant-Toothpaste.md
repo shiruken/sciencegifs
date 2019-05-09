@@ -12,4 +12,4 @@ Try It Yourself: <http://sciencebob.com/fantastic-foamy-fountain/>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#ChemicalReaction](https://plus.google.com/s/%23ChemicalReaction/posts) [#ElephantToothpaste](https://plus.google.com/s/%23ElephantToothpaste/posts) [#Exothermic](https://plus.google.com/s/%23Exothermic/posts) [#Foam](https://plus.google.com/s/%23Foam/posts) [#Funny](https://plus.google.com/s/%23Funny/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/8ZbQWgu8624)
 
-![Elephant Toothpaste](https://i.imgur.com/i2Cc0mn.gif)
+![Elephant Toothpaste](/assets/img/2015-06-09-Elephant-Toothpaste.gif)

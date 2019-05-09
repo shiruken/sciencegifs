@@ -10,4 +10,4 @@ Source: <https://youtu.be/HACO32JGQz0>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Weather](https://plus.google.com/s/%23Weather/posts) [#Waterspout](https://plus.google.com/s/%23Waterspout/posts) [#Ocean](https://plus.google.com/s/%23Ocean/posts) [#Meteorology](https://plus.google.com/s/%23Meteorology/posts) [#Funnel](https://plus.google.com/s/%23Funnel/posts) [#Cloud](https://plus.google.com/s/%23Cloud/posts) [#Australia](https://plus.google.com/s/%23Australia/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/aSLcADHKoV7)
 
-![Waterspout](https://i.imgur.com/1NyovoL.gif)
+![Waterspout](/assets/img/2016-02-01-Waterspout.gif)

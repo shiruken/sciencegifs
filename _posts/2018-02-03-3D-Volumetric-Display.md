@@ -13,4 +13,4 @@ Journal Article: <https://goo.gl/4EVDRW> (Nature)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Volumetric](https://plus.google.com/s/%23Volumetric/posts) [#Display](https://plus.google.com/s/%23Display/posts) [#Hologram](https://plus.google.com/s/%23Hologram/posts) [#Photophoretic](https://plus.google.com/s/%23Photophoretic/posts) [#Optics](https://plus.google.com/s/%23Optics/posts) [#Optical](https://plus.google.com/s/%23Optical/posts) [#OpticalTrap](https://plus.google.com/s/%23OpticalTrap/posts) [#Laser](https://plus.google.com/s/%23Laser/posts) [#Light](https://plus.google.com/s/%23Light/posts) [#Projection](https://plus.google.com/s/%23Projection/posts) [#Raster](https://plus.google.com/s/%23Raster/posts) [#Nature](https://plus.google.com/s/%23Nature/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/feJMxR9xDaM)
 
-![3D Volumetric Display](https://i.imgur.com/mk0gJvs.gif)
+![3D Volumetric Display](/assets/img/2018-02-03-3D-Volumetric-Display.gif)

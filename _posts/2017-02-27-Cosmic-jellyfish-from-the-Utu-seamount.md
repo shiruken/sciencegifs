@@ -10,4 +10,4 @@ Source: <https://goo.gl/C6hmYL> (NOAA)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#NOAA](https://plus.google.com/s/%23NOAA/posts) [#Jellyfish](https://plus.google.com/s/%23Jellyfish/posts) [#Robot](https://plus.google.com/s/%23Robot/posts) [#Utu](https://plus.google.com/s/%23Utu/posts) [#Seamount](https://plus.google.com/s/%23Seamount/posts) [#Ocean](https://plus.google.com/s/%23Ocean/posts) [#Deep](https://plus.google.com/s/%23Deep/posts) [#Sea](https://plus.google.com/s/%23Sea/posts) [#Okeanos](https://plus.google.com/s/%23Okeanos/posts) [#Explorer](https://plus.google.com/s/%23Explorer/posts) [#Samoa](https://plus.google.com/s/%23Samoa/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/1sm5iLnJSw6)
 
-![\"Cosmic\" jellyfish from the Utu seamount](https://i.imgur.com/x0JS0f6.gif)
+![\"Cosmic\" jellyfish from the Utu seamount](/assets/img/2017-02-27-Cosmic-jellyfish-from-the-Utu-seamount.gif)

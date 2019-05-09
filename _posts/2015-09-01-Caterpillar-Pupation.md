@@ -10,4 +10,4 @@ Source: <https://youtu.be/ocWgSgMGxOc>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Caterpillar](https://plus.google.com/s/%23Caterpillar/posts) [#Metamorphosis](https://plus.google.com/s/%23Metamorphosis/posts) [#Pupae](https://plus.google.com/s/%23Pupae/posts) [#Pupation](https://plus.google.com/s/%23Pupation/posts) [#Chrysalis](https://plus.google.com/s/%23Chrysalis/posts) [#Insect](https://plus.google.com/s/%23Insect/posts) [#Nature](https://plus.google.com/s/%23Nature/posts) [#Biology](https://plus.google.com/s/%23Biology/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/CJfgwxfnCJh)
 
-![Caterpillar Pupation](https://i.imgur.com/ors7nf6.gif)
+![Caterpillar Pupation](/assets/img/2015-09-01-Caterpillar-Pupation.gif)

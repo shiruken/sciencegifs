@@ -10,4 +10,4 @@ Source: <https://youtu.be/37TNyDHZExA>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Pluto](https://plus.google.com/s/%23Pluto/posts) [#NewHorizons](https://plus.google.com/s/%23NewHorizons/posts) [#Imagery](https://plus.google.com/s/%23Imagery/posts) [#Photoclinometry](https://plus.google.com/s/%23Photoclinometry/posts) [#ImageProcessing](https://plus.google.com/s/%23ImageProcessing/posts) [#3D](https://plus.google.com/s/%233D/posts) [#Rotation](https://plus.google.com/s/%23Rotation/posts) [#Camera](https://plus.google.com/s/%23Camera/posts) [#Surface](https://plus.google.com/s/%23Surface/posts) [#Mountains](https://plus.google.com/s/%23Mountains/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/14KNDqc87S7)
 
-![The Icy Mountains of Pluto](https://i.imgur.com/dQiuz2a.gif)
+![The Icy Mountains of Pluto](/assets/img/2015-07-17-The-Icy-Mountains-of-Pluto.gif)

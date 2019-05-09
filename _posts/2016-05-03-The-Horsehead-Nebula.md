@@ -12,4 +12,4 @@ Source: <https://youtu.be/-PQpNb_yJVE>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Hubble](https://plus.google.com/s/%23Hubble/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#Telescope](https://plus.google.com/s/%23Telescope/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#ESA](https://plus.google.com/s/%23ESA/posts) [#Nebula](https://plus.google.com/s/%23Nebula/posts) [#Horsehead](https://plus.google.com/s/%23Horsehead/posts) [#OuterSpace](https://plus.google.com/s/%23OuterSpace/posts) [#Exploration](https://plus.google.com/s/%23Exploration/posts) [#Discovery](https://plus.google.com/s/%23Discovery/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/MnEHHfDYRo6)
 
-![The Horsehead Nebula](https://i.imgur.com/7J9sN9z.gif)
+![The Horsehead Nebula](/assets/img/2016-05-03-The-Horsehead-Nebula.gif)

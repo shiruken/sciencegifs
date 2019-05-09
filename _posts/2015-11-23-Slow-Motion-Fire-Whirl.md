@@ -12,4 +12,4 @@ Source: <https://youtu.be/QwoghxwETng> (The Slow Mo Guys)
 ﻿
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/cLzcEmnY7hy)
 
-![Slow Motion Fire Whirl](https://i.imgur.com/jd5t8ed.gif)
+![Slow Motion Fire Whirl](/assets/img/2015-11-23-Slow-Motion-Fire-Whirl.gif)

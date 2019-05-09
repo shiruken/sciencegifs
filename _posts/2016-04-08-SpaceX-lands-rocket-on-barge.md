@@ -12,4 +12,4 @@ Source: <https://youtu.be/7pUAydjne5M> (SpaceX)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#SpaceX](https://plus.google.com/s/%23SpaceX/posts) [#ElonMusk](https://plus.google.com/s/%23ElonMusk/posts) [#Rocket](https://plus.google.com/s/%23Rocket/posts) [#Dragon](https://plus.google.com/s/%23Dragon/posts) [#CRS8](https://plus.google.com/s/%23CRS8/posts) [#Spaceship](https://plus.google.com/s/%23Spaceship/posts) [#Booster](https://plus.google.com/s/%23Booster/posts) [#Landing](https://plus.google.com/s/%23Landing/posts) [#Barge](https://plus.google.com/s/%23Barge/posts) [#Culture](https://plus.google.com/s/%23Culture/posts) [#Sea](https://plus.google.com/s/%23Sea/posts) [#Ocean](https://plus.google.com/s/%23Ocean/posts) [#Reusable](https://plus.google.com/s/%23Reusable/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/6HJMaTuF9sq)
 
-![SpaceX lands rocket on barge](https://i.imgur.com/PZzUlMT.gif)
+![SpaceX lands rocket on barge](/assets/img/2016-04-08-SpaceX-lands-rocket-on-barge.gif)

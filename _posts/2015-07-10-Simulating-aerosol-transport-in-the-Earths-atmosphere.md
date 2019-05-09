@@ -14,4 +14,4 @@ Source: <http://gmao.gsfc.nasa.gov/research/aerosol/modeling/nr1_movie/> (NASA G
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Earth](https://plus.google.com/s/%23Earth/posts) [#Atmosphere](https://plus.google.com/s/%23Atmosphere/posts) [#Climate](https://plus.google.com/s/%23Climate/posts) [#Aerosol](https://plus.google.com/s/%23Aerosol/posts) [#Transport](https://plus.google.com/s/%23Transport/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#GMAO](https://plus.google.com/s/%23GMAO/posts) [#Simulation](https://plus.google.com/s/%23Simulation/posts) [#Planet](https://plus.google.com/s/%23Planet/posts) [#Model](https://plus.google.com/s/%23Model/posts) [#Weather](https://plus.google.com/s/%23Weather/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/8s2c8NnJQjS)
 
-![Simulating aerosol transport in the Earth's atmosphere](https://i.imgur.com/FzQkzAB.gif)
+![Simulating aerosol transport in the Earth's atmosphere](/assets/img/2015-07-10-Simulating-aerosol-transport-in-the-Earths-atmosphere.gif)

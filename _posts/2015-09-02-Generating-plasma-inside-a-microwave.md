@@ -14,4 +14,4 @@ Source: <https://youtu.be/G7lfzA7WzVI>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Plasma](https://plus.google.com/s/%23Plasma/posts) [#Microwave](https://plus.google.com/s/%23Microwave/posts) [#Match](https://plus.google.com/s/%23Match/posts) [#Flame](https://plus.google.com/s/%23Flame/posts) [#Electrons](https://plus.google.com/s/%23Electrons/posts) [#Energy](https://plus.google.com/s/%23Energy/posts) [#Radiation](https://plus.google.com/s/%23Radiation/posts) [#Molecules](https://plus.google.com/s/%23Molecules/posts) [#Electromagnetic](https://plus.google.com/s/%23Electromagnetic/posts) [#Ions](https://plus.google.com/s/%23Ions/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/BPFSE9jQEqZ)
 
-![Generating plasma inside a microwave](https://i.imgur.com/hX9nx49.gif)
+![Generating plasma inside a microwave](/assets/img/2015-09-02-Generating-plasma-inside-a-microwave.gif)

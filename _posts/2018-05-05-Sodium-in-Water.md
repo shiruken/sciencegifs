@@ -14,4 +14,4 @@ Source: <https://redd.it/86cplg> (u/mtimetraveller)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Sodium](https://plus.google.com/s/%23Sodium/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Chemical](https://plus.google.com/s/%23Chemical/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts) [#Thermal](https://plus.google.com/s/%23Thermal/posts) [#Imaging](https://plus.google.com/s/%23Imaging/posts) [#Exothermic](https://plus.google.com/s/%23Exothermic/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#Melt](https://plus.google.com/s/%23Melt/posts) [#Heat](https://plus.google.com/s/%23Heat/posts) [#Hydrogen](https://plus.google.com/s/%23Hydrogen/posts) [#Gas](https://plus.google.com/s/%23Gas/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/JK7qVvJpKek)
 
-![Sodium in Water](https://i.imgur.com/54yvPJF.gif)
+![Sodium in Water](/assets/img/2018-05-05-Sodium-in-Water.gif)

@@ -12,4 +12,4 @@ Source: <https://youtu.be/gltxUjB8jNA>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Oil](https://plus.google.com/s/%23Oil/posts) [#Hot](https://plus.google.com/s/%23Hot/posts) [#Heating](https://plus.google.com/s/%23Heating/posts) [#Transition](https://plus.google.com/s/%23Transition/posts) [#Matter](https://plus.google.com/s/%23Matter/posts) [#State](https://plus.google.com/s/%23State/posts) [#Vaporization](https://plus.google.com/s/%23Vaporization/posts) [#Gas](https://plus.google.com/s/%23Gas/posts) [#Liquid](https://plus.google.com/s/%23Liquid/posts) [#Bubble](https://plus.google.com/s/%23Bubble/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/d7tZryprcxr)
 
-![Water droplet vaporizing in hot oil](https://i.imgur.com/wJaSgCV.gif)
+![Water droplet vaporizing in hot oil](/assets/img/2015-09-14-Water-droplet-vaporizing-in-hot-oil.gif)

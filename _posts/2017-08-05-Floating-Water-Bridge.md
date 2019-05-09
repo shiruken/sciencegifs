@@ -15,4 +15,4 @@ Learn More: <https://doi.org/10.3791/51819> (JoVE)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#Voltage](https://plus.google.com/s/%23Voltage/posts) [#Beaker](https://plus.google.com/s/%23Beaker/posts) [#Bridge](https://plus.google.com/s/%23Bridge/posts) [#Floating](https://plus.google.com/s/%23Floating/posts) [#Electrohydrodynamic](https://plus.google.com/s/%23Electrohydrodynamic/posts) [#Electric](https://plus.google.com/s/%23Electric/posts) [#Hydrodynamic](https://plus.google.com/s/%23Hydrodynamic/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Molecules](https://plus.google.com/s/%23Molecules/posts) [#Polarity](https://plus.google.com/s/%23Polarity/posts) [#Electricity](https://plus.google.com/s/%23Electricity/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/Ljd1wKoWMrY)
 
-![Floating Water Bridge](https://i.imgur.com/X7HHWeY.gif)
+![Floating Water Bridge](/assets/img/2017-08-05-Floating-Water-Bridge.gif)

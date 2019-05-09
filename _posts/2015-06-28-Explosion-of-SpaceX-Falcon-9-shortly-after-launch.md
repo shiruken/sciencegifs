@@ -10,4 +10,4 @@ Source: <https://youtu.be/PuNymhcTtSQ>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#SpaceX](https://plus.google.com/s/%23SpaceX/posts) [#Falcon9](https://plus.google.com/s/%23Falcon9/posts) [#Rocket](https://plus.google.com/s/%23Rocket/posts) [#Launch](https://plus.google.com/s/%23Launch/posts) [#Explosion](https://plus.google.com/s/%23Explosion/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#ISS](https://plus.google.com/s/%23ISS/posts) [#Failure](https://plus.google.com/s/%23Failure/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#Exploration](https://plus.google.com/s/%23Exploration/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/g7kXbL1DNk4)
 
-![Explosion of SpaceX Falcon 9 shortly after launch](https://i.imgur.com/5wRclbv.gif)
+![Explosion of SpaceX Falcon 9 shortly after launch](/assets/img/2015-06-28-Explosion-of-SpaceX-Falcon-9-shortly-after-launch.gif)

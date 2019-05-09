@@ -15,4 +15,4 @@ Source: <https://youtu.be/vpl9sY1jY98>
 
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/2KcCoGMPtkF)
 
-![Laser-powered droplets](https://i.imgur.com/bWR3RAy.gif)
+![Laser-powered droplets](/assets/img/2016-06-01-Laserpowered-droplets.gif)

@@ -12,4 +12,4 @@ Source: <http://goo.gl/F0LWZV>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Satellite](https://plus.google.com/s/%23Satellite/posts) [#Earth](https://plus.google.com/s/%23Earth/posts) [#GoogleEarth](https://plus.google.com/s/%23GoogleEarth/posts) [#Landsat](https://plus.google.com/s/%23Landsat/posts) [#GoogleEarthEngine](https://plus.google.com/s/%23GoogleEarthEngine/posts) [#River](https://plus.google.com/s/%23River/posts) [#UcayaliRiver](https://plus.google.com/s/%23UcayaliRiver/posts) [#River](https://plus.google.com/s/%23River/posts) [#Ucayali](https://plus.google.com/s/%23Ucayali/posts) [#Peru](https://plus.google.com/s/%23Peru/posts) [#Bend](https://plus.google.com/s/%23Bend/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/GyjXxn8mSYf)
 
-![Evolution of the Ucayali River](https://i.imgur.com/0KhrVm2.gif)
+![Evolution of the Ucayali River](/assets/img/2016-03-30-Evolution-of-the-Ucayali-River.gif)

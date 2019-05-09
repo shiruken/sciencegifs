@@ -10,4 +10,4 @@ Source: <https://youtu.be/OLUyeCC-2Ko>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#HydrogenPeroxide](https://plus.google.com/s/%23HydrogenPeroxide/posts) [#PotassiumPermanganate](https://plus.google.com/s/%23PotassiumPermanganate/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts) [#Chemical](https://plus.google.com/s/%23Chemical/posts) [#ChemicalReaction](https://plus.google.com/s/%23ChemicalReaction/posts) [#Redox](https://plus.google.com/s/%23Redox/posts) [#Reduction](https://plus.google.com/s/%23Reduction/posts) [#Oxidation](https://plus.google.com/s/%23Oxidation/posts) [#Titration](https://plus.google.com/s/%23Titration/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/8xZP21BH37h)
 
-![Hydrogen Peroxide and Potassium Permanganate](https://i.imgur.com/jhmlxsA.gif)
+![Hydrogen Peroxide and Potassium Permanganate](/assets/img/2016-03-14-Hydrogen-Peroxide-and-Potassium-Permanganate.gif)

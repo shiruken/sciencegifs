@@ -10,4 +10,4 @@ Source: <https://youtu.be/7_JxvdDeDG8>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Medicine](https://plus.google.com/s/%23Medicine/posts) [#Stroke](https://plus.google.com/s/%23Stroke/posts) [#Clot](https://plus.google.com/s/%23Clot/posts) [#Revascularization](https://plus.google.com/s/%23Revascularization/posts) [#Catheter](https://plus.google.com/s/%23Catheter/posts) [#Blood](https://plus.google.com/s/%23Blood/posts) [#Stent](https://plus.google.com/s/%23Stent/posts) [#Coviden](https://plus.google.com/s/%23Coviden/posts) [#Thrombectomy](https://plus.google.com/s/%23Thrombectomy/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/E982DVSnHRK)
 
-![Removing a blood clot from the brain](https://i.imgur.com/NLPMhkp.gif)
+![Removing a blood clot from the brain](/assets/img/2016-01-14-Removing-a-blood-clot-from-the-brain.gif)

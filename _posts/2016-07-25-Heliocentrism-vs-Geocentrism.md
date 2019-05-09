@@ -12,4 +12,4 @@ Source: <http://goo.gl/6yw5jO>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Heliocentric](https://plus.google.com/s/%23Heliocentric/posts) [#Geocentric](https://plus.google.com/s/%23Geocentric/posts) [#Solar](https://plus.google.com/s/%23Solar/posts) [#SolarSystem](https://plus.google.com/s/%23SolarSystem/posts) [#Orbit](https://plus.google.com/s/%23Orbit/posts) [#Earth](https://plus.google.com/s/%23Earth/posts) [#Planets](https://plus.google.com/s/%23Planets/posts) [#Centric](https://plus.google.com/s/%23Centric/posts) [#Galileo](https://plus.google.com/s/%23Galileo/posts) [#Copernicus](https://plus.google.com/s/%23Copernicus/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/JvB9pBi9tBu)
 
-![Heliocentrism vs Geocentrism](https://i.imgur.com/k8A0USS.gif)
+![Heliocentrism vs Geocentrism](/assets/img/2016-07-25-Heliocentrism-vs-Geocentrism.gif)

@@ -10,4 +10,4 @@ Source: <https://youtu.be/GutiNPwzUA8>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Density](https://plus.google.com/s/%23Density/posts) [#SulfurHexafluoride](https://plus.google.com/s/%23SulfurHexafluoride/posts) [#SF6](https://plus.google.com/s/%23SF6/posts) [#Bubbles](https://plus.google.com/s/%23Bubbles/posts) [#Floating](https://plus.google.com/s/%23Floating/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts)﻿
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/3znvnURi55U)
 
-![Bubbles floating on sulfur hexafluoride](https://i.imgur.com/LPSSHRv.gif)
+![Bubbles floating on sulfur hexafluoride](/assets/img/2015-11-19-Bubbles-floating-on-sulfur-hexafluoride.gif)

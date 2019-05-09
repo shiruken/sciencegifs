@@ -12,4 +12,4 @@ Source: <https://youtu.be/G4dFVeP9Vdo>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Medicine](https://plus.google.com/s/%23Medicine/posts) [#Imaging](https://plus.google.com/s/%23Imaging/posts) [#MRI](https://plus.google.com/s/%23MRI/posts) [#MagneticResonance](https://plus.google.com/s/%23MagneticResonance/posts) [#Heart](https://plus.google.com/s/%23Heart/posts) [#Cardiac](https://plus.google.com/s/%23Cardiac/posts) [#Blood](https://plus.google.com/s/%23Blood/posts) [#Pumping](https://plus.google.com/s/%23Pumping/posts) [#Muscle](https://plus.google.com/s/%23Muscle/posts) [#Radiology](https://plus.google.com/s/%23Radiology/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/EoiEqa9AX6h)
 
-![Cardiac MRI Scan](https://i.imgur.com/yRWxN2G.gif)
+![Cardiac MRI Scan](/assets/img/2015-08-26-Cardiac-MRI-Scan.gif)

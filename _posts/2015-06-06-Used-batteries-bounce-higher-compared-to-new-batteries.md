@@ -10,4 +10,4 @@ Source: <http://steingart.princeton.edu/>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Battery](https://plus.google.com/s/%23Battery/posts) [#Research](https://plus.google.com/s/%23Research/posts) [#Bounce](https://plus.google.com/s/%23Bounce/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/gevU6aFnLeG)
 
-![Used batteries bounce higher compared to new batteries](https://i.imgur.com/0ybaC5u.gif)
+![Used batteries bounce higher compared to new batteries](/assets/img/2015-06-06-Used-batteries-bounce-higher-compared-to-new-batteries.gif)

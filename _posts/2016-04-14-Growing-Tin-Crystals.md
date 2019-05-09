@@ -12,4 +12,4 @@ Source: <https://youtu.be/r-YbQN_twpw>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Electrolysis](https://plus.google.com/s/%23Electrolysis/posts) [#Tin](https://plus.google.com/s/%23Tin/posts) [#StannousChloride](https://plus.google.com/s/%23StannousChloride/posts) [#ChemicalReaction](https://plus.google.com/s/%23ChemicalReaction/posts) [#Chemical](https://plus.google.com/s/%23Chemical/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#Electrochemistry](https://plus.google.com/s/%23Electrochemistry/posts) [#Crystal](https://plus.google.com/s/%23Crystal/posts) [#Electricity](https://plus.google.com/s/%23Electricity/posts) [#Solution](https://plus.google.com/s/%23Solution/posts) [#Electrolyte](https://plus.google.com/s/%23Electrolyte/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/Hd4BAgXZTuo)
 
-![Growing Tin Crystals](https://i.imgur.com/jcb2lBN.gif)
+![Growing Tin Crystals](/assets/img/2016-04-14-Growing-Tin-Crystals.gif)

@@ -13,4 +13,4 @@ Learn More: <http://goo.gl/7rABKo>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Nanotubes](https://plus.google.com/s/%23Nanotubes/posts) [#Carbon](https://plus.google.com/s/%23Carbon/posts) [#Teslaphoresis](https://plus.google.com/s/%23Teslaphoresis/posts) [#Tesla](https://plus.google.com/s/%23Tesla/posts) [#Electricity](https://plus.google.com/s/%23Electricity/posts) [#Wire](https://plus.google.com/s/%23Wire/posts) [#Nanowire](https://plus.google.com/s/%23Nanowire/posts) [#SelfAssembly](https://plus.google.com/s/%23SelfAssembly/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#TeslaCoil](https://plus.google.com/s/%23TeslaCoil/posts) [#Current](https://plus.google.com/s/%23Current/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/9Ha9URT95CK)
 
-![Teslaphoresis](https://i.imgur.com/AsXnndO.gif)
+![Teslaphoresis](/assets/img/2016-04-15-Teslaphoresis.gif)

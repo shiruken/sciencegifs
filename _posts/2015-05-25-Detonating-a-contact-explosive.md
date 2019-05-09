@@ -10,4 +10,4 @@ Source: <https://youtu.be/cWMlUDT2sK8>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#TheRoyalInstitution](https://plus.google.com/s/%23TheRoyalInstitution/posts) [#Explosion](https://plus.google.com/s/%23Explosion/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/GSc7fQVqcrW)
 
-![Detonating a contact explosive](https://i.imgur.com/qfumsK1.gif)
+![Detonating a contact explosive](/assets/img/2015-05-25-Detonating-a-contact-explosive.gif)

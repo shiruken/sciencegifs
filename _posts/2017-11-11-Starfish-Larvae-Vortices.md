@@ -10,4 +10,4 @@ Article in _Journal of Experimental Biology_ : <https://doi.org/10.1242/jeb.1625
 Article in _Nature Physics_ : <https://doi.org/10.1038/nphys3981>
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/AWnmg6bsmt1)
 
-![Starfish Larvae Vortices](https://i.imgur.com/ovr1wCs.gif)
+![Starfish Larvae Vortices](/assets/img/2017-11-11-Starfish-Larvae-Vortices.gif)

@@ -14,4 +14,4 @@ Source: <https://youtu.be/PoxyZjwd17k>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Diamond](https://plus.google.com/s/%23Diamond/posts) [#Carbon](https://plus.google.com/s/%23Carbon/posts) [#Oxygen](https://plus.google.com/s/%23Oxygen/posts) [#Burning](https://plus.google.com/s/%23Burning/posts) [#CarbonDioxide](https://plus.google.com/s/%23CarbonDioxide/posts) [#CarbonMonoxide](https://plus.google.com/s/%23CarbonMonoxide/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/HKFGxuLPgVh)
 
-![Burning a Diamond](https://i.imgur.com/ofdDQqm.gif)
+![Burning a Diamond](/assets/img/2015-12-25-Burning-a-Diamond.gif)

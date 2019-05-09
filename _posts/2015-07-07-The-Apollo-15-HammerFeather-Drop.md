@@ -10,4 +10,4 @@ Source: <http://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_15_feather_drop.html>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Apollo](https://plus.google.com/s/%23Apollo/posts) [#Moon](https://plus.google.com/s/%23Moon/posts) [#Lunar](https://plus.google.com/s/%23Lunar/posts) [#Apollo15](https://plus.google.com/s/%23Apollo15/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Galileo](https://plus.google.com/s/%23Galileo/posts) [#Mass](https://plus.google.com/s/%23Mass/posts) [#Newton](https://plus.google.com/s/%23Newton/posts) [#Acceleration](https://plus.google.com/s/%23Acceleration/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/3wus9WZbUyD)
 
-![The Apollo 15 Hammer-Feather Drop](https://i.imgur.com/MY2C7xR.gif)
+![The Apollo 15 Hammer-Feather Drop](/assets/img/2015-07-07-The-Apollo-15-HammerFeather-Drop.gif)

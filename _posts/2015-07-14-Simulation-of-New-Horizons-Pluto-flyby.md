@@ -12,4 +12,4 @@ Source: <http://www.nasa.gov/mission_pages/newhorizons/main/index.html>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#NewHorizons](https://plus.google.com/s/%23NewHorizons/posts) [#PlutoFlyby](https://plus.google.com/s/%23PlutoFlyby/posts) [#Pluto](https://plus.google.com/s/%23Pluto/posts) [#charon](https://plus.google.com/s/%23charon/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Spacecraft](https://plus.google.com/s/%23Spacecraft/posts) [#SolarSystem](https://plus.google.com/s/%23SolarSystem/posts) [#Exploration](https://plus.google.com/s/%23Exploration/posts) [#Camera](https://plus.google.com/s/%23Camera/posts) [#SpaceProbe](https://plus.google.com/s/%23SpaceProbe/posts) [#Space](https://plus.google.com/s/%23Space/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/RDqjQU6ioMj)
 
-![Simulation of New Horizons' Pluto flyby](https://i.imgur.com/6EUfzGv.gif)
+![Simulation of New Horizons' Pluto flyby](/assets/img/2015-07-14-Simulation-of-New-Horizons-Pluto-flyby.gif)

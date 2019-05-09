@@ -10,4 +10,4 @@ Source: <http://sciencetrack.blogspot.com/2007/07/twining-motion-of-vines.html>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Botany](https://plus.google.com/s/%23Botany/posts) [#Timelapse](https://plus.google.com/s/%23Timelapse/posts) [#Plant](https://plus.google.com/s/%23Plant/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/NsmFKEPEHCb)
 
-![Twining motion of vines during growth](https://i.imgur.com/kyr3209.gif)
+![Twining motion of vines during growth](/assets/img/2015-05-26-Twining-motion-of-vines-during-growth.gif)

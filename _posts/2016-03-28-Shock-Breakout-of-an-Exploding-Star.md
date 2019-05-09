@@ -14,4 +14,4 @@ Source: <http://goo.gl/CE7xsf> (NASA)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Kepler](https://plus.google.com/s/%23Kepler/posts) [#Satellite](https://plus.google.com/s/%23Satellite/posts) [#Telescope](https://plus.google.com/s/%23Telescope/posts) [#Supernova](https://plus.google.com/s/%23Supernova/posts) [#Star](https://plus.google.com/s/%23Star/posts) [#Explosion](https://plus.google.com/s/%23Explosion/posts) [#Breakout](https://plus.google.com/s/%23Breakout/posts) [#Shock](https://plus.google.com/s/%23Shock/posts) [#Light](https://plus.google.com/s/%23Light/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#Discovery](https://plus.google.com/s/%23Discovery/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/637Rvn8upkG)
 
-![Shock Breakout of an Exploding Star](https://i.imgur.com/C0qC4oI.gif)
+![Shock Breakout of an Exploding Star](/assets/img/2016-03-28-Shock-Breakout-of-an-Exploding-Star.gif)

@@ -12,4 +12,4 @@ Source: <https://youtu.be/WM25pUsrODk> (ElectroBOOM)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Plasma](https://plus.google.com/s/%23Plasma/posts) [#Electron](https://plus.google.com/s/%23Electron/posts) [#Tesla](https://plus.google.com/s/%23Tesla/posts) [#Coil](https://plus.google.com/s/%23Coil/posts) [#TeslaCoil](https://plus.google.com/s/%23TeslaCoil/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Electricity](https://plus.google.com/s/%23Electricity/posts) [#Vacuum](https://plus.google.com/s/%23Vacuum/posts) [#Arc](https://plus.google.com/s/%23Arc/posts) [#Ionized](https://plus.google.com/s/%23Ionized/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/GB4fnMU1j65)
 
-![Capturing Plasma in a Syringe](https://i.imgur.com/crnT8YV.gif)
+![Capturing Plasma in a Syringe](/assets/img/2018-05-26-Capturing-Plasma-in-a-Syringe.gif)

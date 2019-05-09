@@ -12,4 +12,4 @@ Source: <https://goo.gl/jjG8OF>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#BlueWhale](https://plus.google.com/s/%23BlueWhale/posts) [#Blue](https://plus.google.com/s/%23Blue/posts) [#Whale](https://plus.google.com/s/%23Whale/posts) [#Krill](https://plus.google.com/s/%23Krill/posts) [#Ocean](https://plus.google.com/s/%23Ocean/posts) [#Feeding](https://plus.google.com/s/%23Feeding/posts) [#Crustacean](https://plus.google.com/s/%23Crustacean/posts) [#Mammal](https://plus.google.com/s/%23Mammal/posts) [#Sea](https://plus.google.com/s/%23Sea/posts) [#Life](https://plus.google.com/s/%23Life/posts) [#Nature](https://plus.google.com/s/%23Nature/posts) [#Oceanography](https://plus.google.com/s/%23Oceanography/posts) [#Drone](https://plus.google.com/s/%23Drone/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/cSLtdhaGHHQ)
 
-![Blue whale eating krill](https://i.imgur.com/RwLzFb0.gif)
+![Blue whale eating krill](/assets/img/2017-04-22-Blue-whale-eating-krill.gif)

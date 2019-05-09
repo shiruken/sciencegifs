@@ -12,4 +12,4 @@ Source: <https://youtu.be/QGFh3UNvuCQ> (NOAA)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Jellyfish](https://plus.google.com/s/%23Jellyfish/posts) [#DeepSea](https://plus.google.com/s/%23DeepSea/posts) [#Sea](https://plus.google.com/s/%23Sea/posts) [#Deep](https://plus.google.com/s/%23Deep/posts) [#Marianas](https://plus.google.com/s/%23Marianas/posts) [#Deepwater](https://plus.google.com/s/%23Deepwater/posts) [#Exploration](https://plus.google.com/s/%23Exploration/posts) [#NOAA](https://plus.google.com/s/%23NOAA/posts) [#Species](https://plus.google.com/s/%23Species/posts) [#Genus](https://plus.google.com/s/%23Genus/posts) [#Vascular](https://plus.google.com/s/%23Vascular/posts) [#Colorful](https://plus.google.com/s/%23Colorful/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/6JdAhQroyDr)
 
-![Deep-Sea Jellyfish](https://i.imgur.com/9ROaiWk.gif)
+![Deep-Sea Jellyfish](/assets/img/2016-05-06-DeepSea-Jellyfish.gif)

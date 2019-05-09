@@ -12,4 +12,4 @@ Source: <https://youtu.be/bDoh8zQDT38> (GoPro)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Rocket](https://plus.google.com/s/%23Rocket/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#Up](https://plus.google.com/s/%23Up/posts) [#Aerospace](https://plus.google.com/s/%23Aerospace/posts) [#Launch](https://plus.google.com/s/%23Launch/posts) [#Engine](https://plus.google.com/s/%23Engine/posts) [#Camera](https://plus.google.com/s/%23Camera/posts) [#GoPro](https://plus.google.com/s/%23GoPro/posts) [#SL10](https://plus.google.com/s/%23SL10/posts) [#Payload](https://plus.google.com/s/%23Payload/posts) [#Mach](https://plus.google.com/s/%23Mach/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/YMY6gRNsUHU)
 
-![Rocket Launch into Space](https://i.imgur.com/wldE2b1.gif)
+![Rocket Launch into Space](/assets/img/2016-05-04-Rocket-Launch-into-Space.gif)

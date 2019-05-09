@@ -10,4 +10,4 @@ Source: <https://youtu.be/mTuC_LrEfbU?t=540>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Radioactivity](https://plus.google.com/s/%23Radioactivity/posts) [#CloudChamber](https://plus.google.com/s/%23CloudChamber/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/aZ8wFFysEgj)
 
-![Radioactive gas injected into cloud chamber depicts radioactive decay](https://i.imgur.com/kLyFWKQ.gif)
+![Radioactive gas injected into cloud chamber depicts radioactive decay](/assets/img/2015-05-21-Radioactive-gas-injected-into-cloud-chamber-depicts-radioactive-decay.gif)

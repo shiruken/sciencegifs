@@ -10,4 +10,4 @@ Source: <http://photojournal.jpl.nasa.gov/catalog/PIA19696> (NASA)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#JPL](https://plus.google.com/s/%23JPL/posts) [#NewHorizons](https://plus.google.com/s/%23NewHorizons/posts) [#Pluto](https://plus.google.com/s/%23Pluto/posts) [#Charon](https://plus.google.com/s/%23Charon/posts) [#SpaceCraft](https://plus.google.com/s/%23SpaceCraft/posts) [#LORRI](https://plus.google.com/s/%23LORRI/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/6RbTWVYRSQ2)
 
-![Pluto, the other red (dwarf) planet](https://i.imgur.com/NLZdJvR.gif)
+![Pluto, the other red (dwarf) planet](/assets/img/2015-07-07-Pluto-the-other-red-dwarf-planet.gif)

@@ -13,4 +13,4 @@ Source: <https://youtu.be/xbuvcQrAOSk> (The Slow Mo Guys)
 
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/YpQJvVWHE8F)
 
-![Pyrex Shattering at 343,000fps](https://i.imgur.com/PNJQimn.gif)
+![Pyrex Shattering at 343,000fps](/assets/img/2016-07-22-Pyrex-Shattering-at-343000fps.gif)

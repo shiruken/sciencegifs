@@ -10,4 +10,4 @@ Source: <https://youtu.be/G303o8pJzls>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Refraction](https://plus.google.com/s/%23Refraction/posts) [#Light](https://plus.google.com/s/%23Light/posts) [#Optics](https://plus.google.com/s/%23Optics/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/2rxQBXxa5aL)
 
-![Refraction of light](https://i.imgur.com/Sobxa9X.gif)
+![Refraction of light](/assets/img/2015-05-25-Refraction-of-light.gif)

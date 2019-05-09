@@ -10,4 +10,4 @@ Source: <https://goo.gl/S1cDKT> (Angew. Chem. Int. Ed.)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#Dissolve](https://plus.google.com/s/%23Dissolve/posts) [#Dichloromethane](https://plus.google.com/s/%23Dichloromethane/posts) [#Surfactant](https://plus.google.com/s/%23Surfactant/posts) [#Solution](https://plus.google.com/s/%23Solution/posts) [#Droplet](https://plus.google.com/s/%23Droplet/posts) [#Complex](https://plus.google.com/s/%23Complex/posts) [#Spiral](https://plus.google.com/s/%23Spiral/posts) [#Rotor](https://plus.google.com/s/%23Rotor/posts) [#Splitting](https://plus.google.com/s/%23Splitting/posts) [#Dynamics](https://plus.google.com/s/%23Dynamics/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/8vE12Mmwx9f)
 
-![Dissolving Dichloromethane](https://i.imgur.com/HquFllh.gif)
+![Dissolving Dichloromethane](/assets/img/2018-01-13-Dissolving-Dichloromethane.gif)

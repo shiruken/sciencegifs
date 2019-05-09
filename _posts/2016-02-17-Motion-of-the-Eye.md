@@ -12,4 +12,4 @@ Source: <http://redd.it/4638mi>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Eye](https://plus.google.com/s/%23Eye/posts) [#SlowMotion](https://plus.google.com/s/%23SlowMotion/posts) [#HighFrameRate](https://plus.google.com/s/%23HighFrameRate/posts) [#Inertia](https://plus.google.com/s/%23Inertia/posts) [#Iris](https://plus.google.com/s/%23Iris/posts) [#AqueousHumor](https://plus.google.com/s/%23AqueousHumor/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/7nvRYREYtUn)
 
-![Motion of the Eye](https://i.imgur.com/8WQtx9x.gif)
+![Motion of the Eye](/assets/img/2016-02-17-Motion-of-the-Eye.gif)

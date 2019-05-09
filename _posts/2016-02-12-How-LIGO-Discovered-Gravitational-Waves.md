@@ -16,4 +16,4 @@ Source: <http://www.einsteinsmessengers.org/index.htm>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#LIGO](https://plus.google.com/s/%23LIGO/posts) [#GravitationalWave](https://plus.google.com/s/%23GravitationalWave/posts) [#Laser](https://plus.google.com/s/%23Laser/posts) [#Interferometer](https://plus.google.com/s/%23Interferometer/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Detector](https://plus.google.com/s/%23Detector/posts) [#Phase](https://plus.google.com/s/%23Phase/posts) [#Light](https://plus.google.com/s/%23Light/posts) [#Astronomy](https://plus.google.com/s/%23Astronomy/posts) [#Discovery](https://plus.google.com/s/%23Discovery/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/gxEoeqFCXYg)
 
-![How LIGO Discovered Gravitational Waves](https://i.imgur.com/ftsiYTl.gif)
+![How LIGO Discovered Gravitational Waves](/assets/img/2016-02-12-How-LIGO-Discovered-Gravitational-Waves.gif)

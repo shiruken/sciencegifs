@@ -10,4 +10,4 @@ Source: <http://ibmresearchnews.blogspot.com/2013/05/how-to-move-atom.html> (IBM
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Imaging](https://plus.google.com/s/%23Imaging/posts) [#Microscopy](https://plus.google.com/s/%23Microscopy/posts) [#STM](https://plus.google.com/s/%23STM/posts) [#IBM](https://plus.google.com/s/%23IBM/posts) [#Research](https://plus.google.com/s/%23Research/posts) [#StopMotion](https://plus.google.com/s/%23StopMotion/posts) [#Movie](https://plus.google.com/s/%23Movie/posts) [#Scanning](https://plus.google.com/s/%23Scanning/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/3TMHQ19LgPr)
 
-![Stop motion movie created using individual atoms](https://i.imgur.com/CpzK2I9.gif)
+![Stop motion movie created using individual atoms](/assets/img/2015-07-15-Stop-motion-movie-created-using-individual-atoms.gif)

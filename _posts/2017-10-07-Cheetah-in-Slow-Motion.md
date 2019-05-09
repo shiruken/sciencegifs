@@ -14,4 +14,4 @@ Source: <https://vimeo.com/53914149>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Cheetah](https://plus.google.com/s/%23Cheetah/posts) [#Animal](https://plus.google.com/s/%23Animal/posts) [#Cat](https://plus.google.com/s/%23Cat/posts) [#Feline](https://plus.google.com/s/%23Feline/posts) [#Slow](https://plus.google.com/s/%23Slow/posts) [#Motion](https://plus.google.com/s/%23Motion/posts) [#SlowMo](https://plus.google.com/s/%23SlowMo/posts) [#SloMo](https://plus.google.com/s/%23SloMo/posts) [#NationalGeographic](https://plus.google.com/s/%23NationalGeographic/posts) [#NatGeo](https://plus.google.com/s/%23NatGeo/posts) [#Zoo](https://plus.google.com/s/%23Zoo/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/bDK8k6dPXuk)
 
-![Cheetah in Slow Motion](https://i.imgur.com/6TMlLlv.gif)
+![Cheetah in Slow Motion](/assets/img/2017-10-07-Cheetah-in-Slow-Motion.gif)

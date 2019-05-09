@@ -14,4 +14,4 @@ Source: <https://youtu.be/kzyrBIySPWw>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#NewHorizons](https://plus.google.com/s/%23NewHorizons/posts) [#Pluto](https://plus.google.com/s/%23Pluto/posts) [#PlutoFlyby](https://plus.google.com/s/%23PlutoFlyby/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Exploration](https://plus.google.com/s/%23Exploration/posts) [#Charon](https://plus.google.com/s/%23Charon/posts) [#Earth](https://plus.google.com/s/%23Earth/posts) [#Spacecraft](https://plus.google.com/s/%23Spacecraft/posts) [#SolarSystem](https://plus.google.com/s/%23SolarSystem/posts) [#Orbit](https://plus.google.com/s/%23Orbit/posts) [#Flyby](https://plus.google.com/s/%23Flyby/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/5VnrQ9fBnre)
 
-![New Horizon's flight from Earth to Pluto](https://i.imgur.com/DBWEMAw.gif)
+![New Horizon's flight from Earth to Pluto](/assets/img/2015-07-13-New-Horizons-flight-from-Earth-to-Pluto.gif)

@@ -15,4 +15,4 @@ Source: <https://www.instagram.com/p/4bvG3oognr/>
 
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/NHW9P9YBcBx)
 
-![Imaging stress in an object with a polariscope](https://i.imgur.com/Kds0c3B.gif)
+![Imaging stress in an object with a polariscope](/assets/img/2016-04-20-Imaging-stress-in-an-object-with-a-polariscope.gif)

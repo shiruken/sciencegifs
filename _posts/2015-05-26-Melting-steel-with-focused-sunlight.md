@@ -10,4 +10,4 @@ Source: <https://youtu.be/8tt7RG3UR4c>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Solar](https://plus.google.com/s/%23Solar/posts) [#Power](https://plus.google.com/s/%23Power/posts) [#Melting](https://plus.google.com/s/%23Melting/posts) [#Focused](https://plus.google.com/s/%23Focused/posts) [#SolarPower](https://plus.google.com/s/%23SolarPower/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/bEqorfJ7uTw)
 
-![Melting steel with focused sunlight](https://i.imgur.com/qdAPgPG.gif)
+![Melting steel with focused sunlight](/assets/img/2015-05-26-Melting-steel-with-focused-sunlight.gif)

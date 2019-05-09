@@ -12,4 +12,4 @@ Source: <http://goo.gl/gxGDPb>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Microscope](https://plus.google.com/s/%23Microscope/posts) [#Zoom](https://plus.google.com/s/%23Zoom/posts) [#Electron](https://plus.google.com/s/%23Electron/posts) [#Scanning](https://plus.google.com/s/%23Scanning/posts) [#SEM](https://plus.google.com/s/%23SEM/posts) [#Bacterium](https://plus.google.com/s/%23Bacterium/posts) [#Diatom](https://plus.google.com/s/%23Diatom/posts) [#Amphipod](https://plus.google.com/s/%23Amphipod/posts) [#Magnitude](https://plus.google.com/s/%23Magnitude/posts) [#Scale](https://plus.google.com/s/%23Scale/posts) [#Life](https://plus.google.com/s/%23Life/posts) [#Size](https://plus.google.com/s/%23Size/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/JQYMjTXK5cC)
 
-![A bacterium on a diatom on an amphipod](https://i.imgur.com/Yhx6tDJ.gif)
+![A bacterium on a diatom on an amphipod](/assets/img/2016-06-15-A-bacterium-on-a-diatom-on-an-amphipod.gif)

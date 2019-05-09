@@ -10,4 +10,4 @@ Source: <http://www.cecs.cl/website/index.php/en/menu-noticias/839-en-campo-de-h
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Glacier](https://plus.google.com/s/%23Glacier/posts) [#ClimateChange](https://plus.google.com/s/%23ClimateChange/posts) [#GlobalWarming](https://plus.google.com/s/%23GlobalWarming/posts) [#Chile](https://plus.google.com/s/%23Chile/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/fs8XdC8bSa7)
 
-![Retreat of the Jorge Montt Glacier](https://i.imgur.com/BnR21EN.gif)
+![Retreat of the Jorge Montt Glacier](/assets/img/2015-06-05-Retreat-of-the-Jorge-Montt-Glacier.gif)

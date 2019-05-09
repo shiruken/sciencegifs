@@ -13,4 +13,4 @@ More GOES-16 Imagery: <https://goo.gl/iNTz9L>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#NOAA](https://plus.google.com/s/%23NOAA/posts) [#GOES](https://plus.google.com/s/%23GOES/posts) [#GOES16](https://plus.google.com/s/%23GOES16/posts) [#Wildfire](https://plus.google.com/s/%23Wildfire/posts) [#Florida](https://plus.google.com/s/%23Florida/posts) [#Georgia](https://plus.google.com/s/%23Georgia/posts) [#Smoke](https://plus.google.com/s/%23Smoke/posts) [#Satellite](https://plus.google.com/s/%23Satellite/posts) [#Image](https://plus.google.com/s/%23Image/posts) [#EarthScience](https://plus.google.com/s/%23EarthScience/posts) [#Climate](https://plus.google.com/s/%23Climate/posts) [#Research](https://plus.google.com/s/%23Research/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/Up1KBXbZm1i)
 
-![Wildfires from Space](https://i.imgur.com/EWAaumq.gif)
+![Wildfires from Space](/assets/img/2017-05-13-Wildfires-from-Space.gif)

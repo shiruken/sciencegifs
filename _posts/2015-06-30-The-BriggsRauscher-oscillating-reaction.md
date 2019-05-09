@@ -12,4 +12,4 @@ Source: <https://youtu.be/_gyzhvMLImg>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Chemistry](https://plus.google.com/s/%23Chemistry/posts) [#ChemicalReaction](https://plus.google.com/s/%23ChemicalReaction/posts) [#Chemical](https://plus.google.com/s/%23Chemical/posts) [#Reaction](https://plus.google.com/s/%23Reaction/posts) [#Oscillating](https://plus.google.com/s/%23Oscillating/posts) [#rxn](https://plus.google.com/s/%23rxn/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/SmYoYMtqZhZ)
 
-![The Briggs-Rauscher oscillating reaction](https://i.imgur.com/zxinIlq.gif)
+![The Briggs-Rauscher oscillating reaction](/assets/img/2015-06-30-The-BriggsRauscher-oscillating-reaction.gif)

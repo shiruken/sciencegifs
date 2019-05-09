@@ -12,4 +12,4 @@ Source: BBC's _Planet Earth_ Episode 1: From Pole to Pole
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Nature](https://plus.google.com/s/%23Nature/posts) [#Desert](https://plus.google.com/s/%23Desert/posts) [#DustDevil](https://plus.google.com/s/%23DustDevil/posts) [#Vortex](https://plus.google.com/s/%23Vortex/posts) [#Wind](https://plus.google.com/s/%23Wind/posts) [#Aerial](https://plus.google.com/s/%23Aerial/posts) [#Dust](https://plus.google.com/s/%23Dust/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/gU5PgeKrygb)
 
-![Dust Devils](https://i.imgur.com/SMJXOFW.gif)
+![Dust Devils](/assets/img/2016-02-23-Dust-Devils.gif)

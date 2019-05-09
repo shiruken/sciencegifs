@@ -15,4 +15,4 @@ Source: <https://svs.gsfc.nasa.gov/12772> (NASA Goddard)
 
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/6YgwiYiG6pa)
 
-![Aerosols over North American](https://i.imgur.com/BmhmDLV.gif)
+![Aerosols over North American](/assets/img/2017-12-02-Aerosols-over-North-American.gif)

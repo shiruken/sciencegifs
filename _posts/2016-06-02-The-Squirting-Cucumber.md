@@ -10,4 +10,4 @@ Source: <https://youtu.be/NsIojj4PzAo>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Cucumber](https://plus.google.com/s/%23Cucumber/posts) [#Plant](https://plus.google.com/s/%23Plant/posts) [#Biology](https://plus.google.com/s/%23Biology/posts) [#RapidPlantMovement](https://plus.google.com/s/%23RapidPlantMovement/posts) [#Flower](https://plus.google.com/s/%23Flower/posts) [#Seed](https://plus.google.com/s/%23Seed/posts) [#Ripe](https://plus.google.com/s/%23Ripe/posts) [#Smithsonian](https://plus.google.com/s/%23Smithsonian/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/SJKwtqX1gKi)
 
-![The Squirting Cucumber](https://i.imgur.com/qhdiGNt.gif)
+![The Squirting Cucumber](/assets/img/2016-06-02-The-Squirting-Cucumber.gif)

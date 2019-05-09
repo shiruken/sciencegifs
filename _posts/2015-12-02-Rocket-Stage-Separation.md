@@ -10,4 +10,4 @@ Source: <https://youtu.be/AEwKOeCj0jU>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#Rocket](https://plus.google.com/s/%23Rocket/posts) [#Earth](https://plus.google.com/s/%23Earth/posts) [#Stage](https://plus.google.com/s/%23Stage/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Engineering](https://plus.google.com/s/%23Engineering/posts) [#UPAerospace](https://plus.google.com/s/%23UPAerospace/posts) [#Aerospace](https://plus.google.com/s/%23Aerospace/posts) [#Aeronautical](https://plus.google.com/s/%23Aeronautical/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/ALVGnityEFq)
 
-![Rocket Stage Separation](https://i.imgur.com/KOntbBM.gif)
+![Rocket Stage Separation](/assets/img/2015-12-02-Rocket-Stage-Separation.gif)

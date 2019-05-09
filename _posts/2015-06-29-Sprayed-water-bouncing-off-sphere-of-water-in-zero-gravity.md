@@ -10,4 +10,4 @@ Source: <https://vine.co/v/Oe2v2KpTaPi> (Reid Wiseman)
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#SpaceVine](https://plus.google.com/s/%23SpaceVine/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#ISS](https://plus.google.com/s/%23ISS/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#ZeroGravity](https://plus.google.com/s/%23ZeroGravity/posts) [#Weightless](https://plus.google.com/s/%23Weightless/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#SurfaceTension](https://plus.google.com/s/%23SurfaceTension/posts) [#Water](https://plus.google.com/s/%23Water/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/ibFfd4HkiQ9)
 
-![Sprayed water bouncing off sphere of water in zero gravity](https://i.imgur.com/5PALdue.gif)
+![Sprayed water bouncing off sphere of water in zero gravity](/assets/img/2015-06-29-Sprayed-water-bouncing-off-sphere-of-water-in-zero-gravity.gif)

@@ -10,4 +10,4 @@ Source: <http://photojournal.jpl.nasa.gov/catalog/PIA09665>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Io](https://plus.google.com/s/%23Io/posts) [#Volcano](https://plus.google.com/s/%23Volcano/posts) [#Tvashtar](https://plus.google.com/s/%23Tvashtar/posts) [#NewHorizons](https://plus.google.com/s/%23NewHorizons/posts) [#NASA](https://plus.google.com/s/%23NASA/posts) [#Space](https://plus.google.com/s/%23Space/posts) [#Probe](https://plus.google.com/s/%23Probe/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/1Mu5GJtxGFY)
 
-![Eruption of massive volcano on Io](https://i.imgur.com/U7tkt0Q.gif)
+![Eruption of massive volcano on Io](/assets/img/2015-06-19-Eruption-of-massive-volcano-on-Io.gif)

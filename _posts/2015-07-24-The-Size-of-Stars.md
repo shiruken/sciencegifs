@@ -10,4 +10,4 @@ Source: <https://youtu.be/HEheh1BH34Q>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Star](https://plus.google.com/s/%23Star/posts) [#Stellar](https://plus.google.com/s/%23Stellar/posts) [#Earth](https://plus.google.com/s/%23Earth/posts) [#Planets](https://plus.google.com/s/%23Planets/posts) [#Sun](https://plus.google.com/s/%23Sun/posts) [#Astronomy](https://plus.google.com/s/%23Astronomy/posts) [#Physics](https://plus.google.com/s/%23Physics/posts) [#Scale](https://plus.google.com/s/%23Scale/posts) [#Size](https://plus.google.com/s/%23Size/posts) [#Enormous](https://plus.google.com/s/%23Enormous/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/PGuZJtbNWrh)
 
-![The Size of Stars](https://i.imgur.com/snJ9sE1.gif)
+![The Size of Stars](/assets/img/2015-07-24-The-Size-of-Stars.gif)

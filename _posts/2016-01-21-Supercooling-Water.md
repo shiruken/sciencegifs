@@ -14,4 +14,4 @@ Source: <https://redd.it/41pbu5/>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Water](https://plus.google.com/s/%23Water/posts) [#State](https://plus.google.com/s/%23State/posts) [#Matter](https://plus.google.com/s/%23Matter/posts) [#Freeze](https://plus.google.com/s/%23Freeze/posts) [#Ice](https://plus.google.com/s/%23Ice/posts) [#Liquid](https://plus.google.com/s/%23Liquid/posts) [#Solid](https://plus.google.com/s/%23Solid/posts) [#Supercooling](https://plus.google.com/s/%23Supercooling/posts) [#Crystal](https://plus.google.com/s/%23Crystal/posts) [#Lattice](https://plus.google.com/s/%23Lattice/posts) [#Nucleation](https://plus.google.com/s/%23Nucleation/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/T4xAm3HasXF)
 
-![Supercooling Water](https://i.imgur.com/W2NywKi.gif)
+![Supercooling Water](/assets/img/2016-01-21-Supercooling-Water.gif)

@@ -10,4 +10,4 @@ Source: <https://youtu.be/Jz7BgxrVmiQ>
 [#ScienceGIF](https://plus.google.com/s/%23ScienceGIF/posts) [#Science](https://plus.google.com/s/%23Science/posts) [#GIF](https://plus.google.com/s/%23GIF/posts) [#Meteorology](https://plus.google.com/s/%23Meteorology/posts) [#Weather](https://plus.google.com/s/%23Weather/posts) [#Clouds](https://plus.google.com/s/%23Clouds/posts) [#Classification](https://plus.google.com/s/%23Classification/posts) [#UndulatusAsperatus](https://plus.google.com/s/%23UndulatusAsperatus/posts)
 [View Original Post on Google+](https://plus.google.com/+ColinSullender/posts/Nooj3Ps7t2u)
 
-![Undulatus asperatus](https://i.imgur.com/mvQcwIR.gif)
+![Undulatus asperatus](/assets/img/2015-08-05-Undulatus-asperatus.gif)
